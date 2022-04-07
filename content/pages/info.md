@@ -81,7 +81,7 @@ sections:
     enableHover: true
     styles:
       self:
-        width: wide
+        width: narrow
         height: auto
         padding:
           - pt-8
