@@ -2,7 +2,7 @@
     "type": "Config",
     "favicon": "/images/LOGO.png",
     "header": {
-        "headerVariant": "variant-c",
+        "headerVariant": "variant-b",
         "isSticky": true,
         "title": "Personal",
         "isTitleVisible": false,
