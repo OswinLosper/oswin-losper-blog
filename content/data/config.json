@@ -3,7 +3,7 @@
     "favicon": "/images/LOGO.png",
     "header": {
         "headerVariant": "variant-c",
-        "isSticky": false,
+        "isSticky": true,
         "title": "Personal",
         "isTitleVisible": false,
         "primaryLinks": [
