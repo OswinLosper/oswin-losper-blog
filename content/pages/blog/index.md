@@ -1,7 +1,7 @@
 ---
 layout: PostFeedLayout
 title: Blog
-colors: colors-a
+colors: colors-d
 numOfPostsPerPage: 10
 postFeed:
   colors: colors-f
