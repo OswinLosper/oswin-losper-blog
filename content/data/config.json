@@ -5,7 +5,7 @@
         "headerVariant": "variant-a",
         "isSticky": true,
         "title": "Oswin Losper",
-        "isTitleVisible": true,
+        "isTitleVisible": false,
         "primaryLinks": [
             {
                 "type": "Link",
