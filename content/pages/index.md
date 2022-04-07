@@ -15,10 +15,7 @@ sections:
     subtitle: >-
       Currently Im a full time Automation Tester at 20fifty. We building
       solutions or thinking about the impact that Cloud Computing and AI has and
-      will continue to have on the world and society. 20fifty specialises in
-      modern application development and serverless cloud computing. Combining
-      human ingenuity + intelligent technology we consistently deliver
-      intelligent, innovative and scalable solutions that work.
+      will continue to have on the world and society. 
     styles:
       self:
         height: auto
