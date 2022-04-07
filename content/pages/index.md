@@ -10,7 +10,7 @@ backgroundImage:
   url: /images/bg2.jpg
 sections:
   - elementId: ''
-    colors: colors-f
+    colors: colors-a
     backgroundSize: full
     title: >-
       I’m a developer, digital artist, consultant and a bunch of other
