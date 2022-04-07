@@ -28,6 +28,7 @@ sections:
         justifyContent: center
         borderWidth: 5
         borderStyle: dotted
+        borderRadius: medium
       title:
         textAlign: left
       subtitle:
