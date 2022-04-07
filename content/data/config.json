@@ -5,7 +5,7 @@
         "headerVariant": "variant-c",
         "isSticky": true,
         "title": "Personal",
-        "isTitleVisible": false,
+        "isTitleVisible": true,
         "primaryLinks": [
             {
                 "type": "Link",
