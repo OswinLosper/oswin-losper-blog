@@ -10,7 +10,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-d
-    backgroundSize: full
+    backgroundSize: inset
     title: >-
       I’m a AUTOMATION TESTER, digital artist, consultant and a bunch of other
       impressive titles and buzz words.
