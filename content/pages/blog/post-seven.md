@@ -1,6 +1,6 @@
 ---
 title: Oswin Losper ⌨️
-colors: colors-a
+colors: colors-d
 layout: PostLayout
 date: '2022-01-04'
 author: content/data/team/doris-soto.json
