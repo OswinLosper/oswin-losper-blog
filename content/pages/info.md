@@ -26,7 +26,7 @@ sections:
           - pl-4
           - pr-4
         justifyContent: center
-        borderWidth: 1
+        borderWidth: 5
       title:
         textAlign: left
       subtitle:
