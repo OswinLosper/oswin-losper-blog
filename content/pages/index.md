@@ -124,6 +124,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
+    showAuthor: true
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
