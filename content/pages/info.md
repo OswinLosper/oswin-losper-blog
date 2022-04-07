@@ -11,7 +11,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: full
+    backgroundSize: inset
     text: "I started my career as a digital designer. About 5 years ago i made the decision to make a career change to testing.\n\nAt the moment I work as a full time Automation Tester at Wyzetalk. a Company that specialising in digital\_employee solutions\_that unleashes the full potential of your entire workforce, before joining Wyzetalk, I worked for iPlatform, a company specialising in, insurance management software.\n\nI also worked as a full time Senior Designer at bOnline Ltd, a UK based company, building small to medium sized business websites.\n\n"
     media:
       type: ImageBlock
