@@ -21,7 +21,7 @@ sections:
       can continue to scroll down to see more details and credentials about me.
     styles:
       self:
-        height: auto
+        height: screen
         width: narrow
         margin:
           - mt-0
