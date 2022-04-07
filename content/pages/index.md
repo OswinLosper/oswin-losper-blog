@@ -12,7 +12,7 @@ sections:
     colors: colors-d
     backgroundSize: full
     title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
+      I’m a AUTOMATION TESTER, digital artist, consultant and a bunch of other
       impressive titles and buzz words.
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
