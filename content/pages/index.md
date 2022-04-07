@@ -10,7 +10,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: full
+    backgroundSize: inset
     title: >-
       I’m a developer, digital artist, consultant and a bunch of other
       impressive titles and buzz words.
