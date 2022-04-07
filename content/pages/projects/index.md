@@ -2,12 +2,6 @@
 layout: ProjectFeedLayout
 title: Projects
 colors: colors-a
-backgroundImage:
-  url: /images/bg1.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 50
 numOfProjectsPerPage: 10
 projectFeed:
   colors: colors-f
