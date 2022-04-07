@@ -1,7 +1,7 @@
 ---
 title: Home
 layout: PageLayout
-colors: colors-c
+colors: colors-d
 backgroundImage:
   backgroundSize: cover
   backgroundPosition: center
