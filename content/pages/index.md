@@ -12,10 +12,13 @@ sections:
     colors: colors-d
     backgroundSize: inset
     title: I’m a AUTOMATION TESTER
-    subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+    subtitle: >
+      Currently Im a full time Automation Tester at 20fifty. We building
+      solutions or thinking about the impact that Cloud Computing and AI has and
+      will continue to have on the world and society. 20fifty specialises in
+      modern application development and serverless cloud computing. Combining
+      human ingenuity + intelligent technology we consistently deliver
+      intelligent, innovative and scalable solutions that work.
     styles:
       self:
         height: auto
