@@ -74,12 +74,6 @@ sections:
         url: /images/adobe.svg
         altText: Logo five
         caption: Logo five
-      - type: ImageBlock
-        url: >-
-          https://assets.stackbit.com/components/images/default/default-image.png
-        altText: altText of the image
-        caption: Caption of the image
-        elementId: ''
     spacing: 3
     columns: 5
     aspectRatio: auto
