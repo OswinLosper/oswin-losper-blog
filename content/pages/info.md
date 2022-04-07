@@ -10,7 +10,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/image.png
-      altText: Hero image
+      altText: Oswin Losper
     styles:
       self:
         height: auto
