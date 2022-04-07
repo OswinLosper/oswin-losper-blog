@@ -12,11 +12,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: "I started my career as a digital designer. About 5 years ago i made the decision to make a career change to testing.\n\nAt the moment I work as a full time Automation Tester at Wyzetalk. a Company that specialising in digital\_employee solutions\_that unleashes the full potential of your entire workforce, before joining Wyzetalk, I worked for iPlatform, a company specialising in, insurance management software.\n\nI also worked as a full time Senior Designer at bOnline Ltd, a UK based company, building small to medium sized business websites.\n\n"
     media:
       type: ImageBlock
       url: /images/about.jpg
