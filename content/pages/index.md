@@ -55,6 +55,7 @@ sections:
         label: See all posts
         url: /blog
         iconPosition: right
+        icon: apple
     posts:
       - content/pages/blog/post-seven.md
       - content/pages/blog/post-six.md
