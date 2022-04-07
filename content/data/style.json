@@ -43,7 +43,7 @@
         "case": "uppercase",
         "letterSpacing": "normal"
     },
-    "light": "#000000",
+    "light": "#ffffff",
     "onLight": "#ffffff",
     "dark": "#ffffff",
     "onDark": "#ffffff",
