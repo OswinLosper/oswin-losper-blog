@@ -54,6 +54,7 @@ sections:
       - type: Link
         label: See all posts
         url: /blog
+        iconPosition: right
     posts:
       - content/pages/blog/post-seven.md
       - content/pages/blog/post-six.md
