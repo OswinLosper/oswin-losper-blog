@@ -1,7 +1,7 @@
 ---
 layout: ProjectFeedLayout
 title: Projects
-colors: colors-a
+colors: colors-b
 numOfProjectsPerPage: 10
 projectFeed:
   colors: colors-f
