@@ -68,7 +68,7 @@ sections:
         altText: Logo four
         caption: Logo four
       - type: ImageBlock
-        url: /images/js.svg
+        url: /images/ts-and-js.svg
         altText: Logo five
         caption: Logo five
     spacing: 3
