@@ -86,6 +86,7 @@ sections:
         justifyContent: center
         borderColor: border-primary
         borderRadius: x-small
+        borderWidth: 2
       title:
         textAlign: left
       subtitle:
