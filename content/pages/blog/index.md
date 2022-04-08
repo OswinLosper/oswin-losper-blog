@@ -11,7 +11,7 @@ postFeed:
   type: PagedPostsSection
   colors: colors-f
   elementId: ''
-  showExcerpt: false
+  showExcerpt: true
   showFeaturedImage: false
   showReadMoreLink: false
   styles:
