@@ -91,7 +91,7 @@
         "copyrightText": "© Oswin Losper 2022. \nContact me for more information oswinlosper\\[@]gmail.com\n",
         "styles": {
             "self": {
-                "width": "wide",
+                "width": "narrow",
                 "padding": [
                     "pt-16",
                     "pb-16",
