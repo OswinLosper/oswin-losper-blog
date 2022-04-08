@@ -12,8 +12,8 @@ postFeed:
   colors: colors-f
   elementId: ''
   showExcerpt: true
-  showFeaturedImage: false
-  showReadMoreLink: false
+  showFeaturedImage: true
+  showReadMoreLink: true
   styles:
     self:
       height: auto
