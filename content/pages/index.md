@@ -42,6 +42,26 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
+    text: >+
+      Currently Im a full time Automation Tester at 20fifty. 
+
+
+
+
+      We building solutions or thinking about the impact that Cloud Computing
+      and AI has and will continue to have on the world and society.
+
+
+
+
+      Currently Im a full time Automation Tester at 20fifty. 
+
+
+
+
+      We building solutions or thinking about the impact that Cloud Computing
+      and AI has and will continue to have on the world and society.
+
   - type: RecentPostsSection
     colors: colors-f
     elementId: ''
