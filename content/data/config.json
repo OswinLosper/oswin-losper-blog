@@ -19,7 +19,7 @@
             },
             {
                 "type": "Link",
-                "label": "home",
+                "label": "Home",
                 "altText": "",
                 "url": "/",
                 "showIcon": false,
