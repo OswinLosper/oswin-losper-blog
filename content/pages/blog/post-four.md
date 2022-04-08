@@ -1,5 +1,5 @@
 ---
-title: "Sharing my wisdom with the world \U0001F30E"
+title: OSWIN LOSPER 4
 colors: colors-a
 layout: PostLayout
 date: '2021-12-01'
