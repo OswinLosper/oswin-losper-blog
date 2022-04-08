@@ -1,5 +1,5 @@
 ---
-title: NFTs are so hot right now
+title: OSWIN LOSPER 3 ⌨️
 colors: colors-a
 layout: PostLayout
 date: '2021-12-02'
