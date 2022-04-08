@@ -4,11 +4,10 @@ colors: colors-b
 layout: PostLayout
 date: '2021-11-04'
 author: content/data/team/doris-soto.json
-excerpt: >-
-  More context that may or may not be helpful
+excerpt: More context that may or may not be helpful
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image3.jpg
+  url: /images/adobe.svg
   altText: Post thumbnail image
 backgroundImage:
   url: /images/gallery-2.jpg
@@ -51,7 +50,7 @@ bottomSections:
     showReadMoreLink: true
   - type: ContactSection
     backgroundSize: full
-    title: 'Stay up-to-date with my words ✍️'
+    title: Stay up-to-date with my words ✍️
     colors: colors-f
     form:
       type: FormBlock
