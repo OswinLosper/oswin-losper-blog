@@ -20,7 +20,8 @@
             {
                 "type": "Link",
                 "label": "About",
-                "url": "/about"
+                "url": "/about",
+                "altText": "About"
             },
             {
                 "type": "Link",
