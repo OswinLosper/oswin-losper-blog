@@ -1,5 +1,5 @@
 ---
-title: JAMstack the future of web
+title: OSWIN LOSPER 5
 colors: colors-b
 layout: PostLayout
 date: '2021-11-04'
