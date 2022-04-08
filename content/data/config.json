@@ -4,6 +4,7 @@
     "header": {
         "headerVariant": "variant-c",
         "isSticky": true,
+        "background-color": #ffffff;
         "title": "Oswin Losper",
         "isTitleVisible": false,
         "primaryLinks": [
