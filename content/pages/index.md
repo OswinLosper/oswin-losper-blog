@@ -12,7 +12,6 @@ sections:
     colors: colors-d
     backgroundSize: inset
     title: I’m a TESTER
-    subtitle: Currently Im a full time Automation Tester at 20fifty
     styles:
       self:
         height: auto
