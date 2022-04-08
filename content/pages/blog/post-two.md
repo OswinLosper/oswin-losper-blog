@@ -1,5 +1,5 @@
 ---
-title: The Great Unbundling
+title: OSWIN LOSPER 6
 colors: colors-a
 backgroundImage:
   url: /images/bg2.jpg
@@ -10,8 +10,7 @@ backgroundImage:
 layout: PostLayout
 date: '2021-11-03'
 author: content/data/team/doris-soto.json
-excerpt: >-
-  More context that may or may not be helpful
+excerpt: More context that may or may not be helpful
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image2.jpg
@@ -57,7 +56,7 @@ bottomSections:
     showReadMoreLink: true
   - type: ContactSection
     backgroundSize: full
-    title: 'Stay up-to-date with my words ✍️'
+    title: Stay up-to-date with my words ✍️
     colors: colors-f
     form:
       type: FormBlock
