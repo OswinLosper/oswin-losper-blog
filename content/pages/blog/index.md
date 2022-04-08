@@ -2,7 +2,7 @@
 layout: PostFeedLayout
 title: Blog Posts
 colors: colors-d
-numOfPostsPerPage: 3
+numOfPostsPerPage: 10
 postFeed:
   colors: colors-f
   showDate: true
