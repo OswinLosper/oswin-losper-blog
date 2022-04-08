@@ -1,5 +1,5 @@
 ---
-title: OSWIN LOSPER 2 ⌨️
+title: OSWIN LOSPER 2
 colors: colors-a
 layout: PostLayout
 date: '2022-01-03'
