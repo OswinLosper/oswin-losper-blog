@@ -60,7 +60,7 @@ sections:
       and AI has and will continue to have on the world and society.
 
   - type: RecentPostsSection
-    colors: colors-f
+    colors: colors-c
     elementId: ''
     showDate: true
     showAuthor: true
