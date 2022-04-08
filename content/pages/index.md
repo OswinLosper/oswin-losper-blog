@@ -85,7 +85,7 @@ sections:
           - pr-4
         justifyContent: center
         borderColor: border-primary
-        borderRadius: x-small
+        borderRadius: none
         borderWidth: 2
         borderStyle: solid
       title:
