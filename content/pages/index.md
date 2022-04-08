@@ -43,51 +43,6 @@ sections:
         justifyContent: flex-start
     type: HeroSection
   - type: FeaturedPostsSection
-    elementId: ''
-    colors: colors-f
-    variant: variant-d
-    subtitle: Posts
-    showFeaturedImage: true
-    actions:
-      - type: Link
-        label: See all posts
-        url: /blog
-        iconPosition: right
-        icon: apple
-    posts:
-      - content/pages/blog/post-seven.md
-      - content/pages/blog/post-six.md
-      - content/pages/blog/post-one.md
-    showDate: true
-    showExcerpt: true
-    showReadMoreLink: true
-    styles:
-      self:
-        height: screen
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-7
-          - pb-7
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-end
-    showAuthor: true
-  - type: FeaturedPostsSection
     colors: colors-f
     elementId: ''
     showDate: true
