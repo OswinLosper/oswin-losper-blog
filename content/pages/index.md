@@ -15,7 +15,7 @@ sections:
     subtitle: >-
       Currently Im a full time Automation Tester at 20fifty. We building
       solutions or thinking about the impact that Cloud Computing and AI has and
-      will continue to have on the world and society. 
+      will continue to have on the world and society.
     styles:
       self:
         height: auto
