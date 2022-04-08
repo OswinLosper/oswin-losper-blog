@@ -12,10 +12,7 @@ sections:
     colors: colors-d
     backgroundSize: inset
     title: I’m a AUTOMATION TESTER
-    subtitle: >-
-      Currently Im a full time Automation Tester at 20fifty. We building
-      solutions or thinking about the impact that Cloud Computing and AI has and
-      will continue to have on the world and society. 
+    subtitle: Currently Im a full time Automation Tester at 20fifty
     styles:
       self:
         height: auto
