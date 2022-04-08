@@ -1,5 +1,5 @@
 ---
-title: Oswin Losper ⌨️
+title: Oswin Losper 1 ⌨️
 colors: colors-d
 layout: PostLayout
 date: '2022-01-04'
