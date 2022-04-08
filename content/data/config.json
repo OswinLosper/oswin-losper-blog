@@ -20,7 +20,7 @@
             {
                 "type": "Link",
                 "label": "Home",
-                "altText": "",
+                "altText": "Home",
                 "url": "/",
                 "showIcon": false,
                 "icon": "arrowRight",
