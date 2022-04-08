@@ -7,7 +7,7 @@ author: content/data/team/doris-soto.json
 excerpt: More context that may or may not be helpful
 featuredImage:
   type: ImageBlock
-  url: /images/benefits-e054ff04.jpg
+  url: /images/benefits 2.jpg
   altText: Post thumbnail image
 bottomSections:
   - elementId: ''
