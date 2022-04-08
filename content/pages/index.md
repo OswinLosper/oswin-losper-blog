@@ -118,7 +118,7 @@ sections:
       actions:
         justifyContent: center
     title: 'Blog Posts:'
-    subtitle: null
+    subtitle: 'This '
     posts:
       - content/pages/blog/post-five.md
       - content/pages/blog/post-four.md
