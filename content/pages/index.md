@@ -92,6 +92,5 @@ sections:
       actions:
         justifyContent: center
     title: Recent Posts
-    subtitle: Posts
     recentCount: 3
 ---
