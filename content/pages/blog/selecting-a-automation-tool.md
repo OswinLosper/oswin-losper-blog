@@ -9,8 +9,8 @@ title: Selecting A Automation Tool
 colors: colors-a
 date: '2021-10-22'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Your automation testing tool must be compatible with many different aspects of
+  your team and company
 featuredImage:
   type: ImageBlock
   url: /images/Selecting a tool.jpg
