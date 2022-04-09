@@ -1,6 +1,6 @@
 ---
 title: OSWIN LOSPER 5
-colors: colors-b
+colors: colors-a
 layout: PostLayout
 date: '2021-11-04'
 author: content/data/team/doris-soto.json
