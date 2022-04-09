@@ -9,12 +9,6 @@ featuredImage:
   type: ImageBlock
   url: /images/no-text.png
   altText: What you need to know to become an automation test engineer
-backgroundImage:
-  url: /images/gallery-3.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 20
 bottomSections:
   - elementId: ''
     type: RecentPostsSection
