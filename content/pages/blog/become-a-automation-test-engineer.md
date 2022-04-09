@@ -50,7 +50,7 @@ bottomSections:
         textAlign: left
       actions:
         justifyContent: center
-    title: 'Posts:'
+    title: 'Recent Posts:'
     subtitle: null
     posts:
       - content/pages/blog/post-five.md
