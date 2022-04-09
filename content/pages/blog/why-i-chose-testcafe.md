@@ -18,7 +18,7 @@ featuredImage:
   type: ImageBlock
   url: /images/whyTestCafe.jpg
   altText: Why I Chose TestCafe
-  caption: ''
+  caption: Why I Chose TestCafe
 bottomSections: []
 ---
 Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
