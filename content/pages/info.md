@@ -99,7 +99,7 @@ sections:
               - pl-0
               - pb-0
               - pr-0
-        title: 'Education:'
+        title: Education
     columns: 2
     spacingX: 60
     spacingY: 60
