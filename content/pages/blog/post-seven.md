@@ -7,10 +7,6 @@ author: content/data/team/doris-soto.json
 excerpt: >-
   QA used to consist of two types of testing, namely, manual testing and
   automation testing.
-
-
-  Manual testers main task was to do regression testing while automation tester
-  was only focussed on writing code and scripts.
 featuredImage:
   type: ImageBlock
   url: /images/no-text.png
