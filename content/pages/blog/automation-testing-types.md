@@ -14,7 +14,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/header2.jpg
-  altText: Post thumbnail image
+  altText: Automation Testing Types
   caption: ''
 bottomSections: []
 author: content/data/team/doris-soto.json
