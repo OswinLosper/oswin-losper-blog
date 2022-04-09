@@ -1,5 +1,4 @@
 ---
-title: Benefits of Automation Testing
 colors: colors-d
 layout: PostLayout
 date: '2021-09-16'
