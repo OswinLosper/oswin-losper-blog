@@ -1,12 +1,6 @@
 ---
 title: OSWIN LOSPER 6
 colors: colors-d
-backgroundImage:
-  url: /images/bg2.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 75
 layout: PostLayout
 date: '2021-11-03'
 author: content/data/team/doris-soto.json
