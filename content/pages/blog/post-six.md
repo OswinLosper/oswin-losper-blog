@@ -4,7 +4,10 @@ colors: colors-a
 layout: PostLayout
 date: '2021-10-29'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: >-
+  In the software testing world, there are two types of testing — manual and
+  automated testing. The aim for both is to execute testcases and take the
+  outcome and compare with them expected results.
 featuredImage:
   type: ImageBlock
   url: /images/maintaining-your-automation-tests2.jpg
