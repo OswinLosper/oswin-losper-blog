@@ -9,8 +9,8 @@ title: Maintaining Automation Tests
 colors: colors-d
 date: '2022-01-28'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Maintaining your automation tests, will reduce the risks for everyone involve
+  on the project. 
 featuredImage:
   type: ImageBlock
   url: /images/maintaining-your-automation-tests2-7280ffec.jpg
