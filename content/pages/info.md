@@ -64,6 +64,7 @@ sections:
         height: auto
         borderStyle: solid
         borderWidth: 1
+    title: Skills
   - type: FeaturedItemsSection
     colors: colors-f
     items:
