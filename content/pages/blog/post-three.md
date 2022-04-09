@@ -36,7 +36,7 @@ bottomSections:
           - pl-4
         justifyContent: center
         borderStyle: solid
-        borderRadius: full
+        borderRadius: xx-small
         borderWidth: 1
       title:
         textAlign: left
