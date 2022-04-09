@@ -162,6 +162,12 @@ TestCafe allows you to run the tests on more than one browser, we'll just run it
 
 When you run the command, TestCafe will open up your browser and set up the web proxy for the test to run. It will open up the website and execute the steps inside the test. The results will then be displayed in the terminal.
 
+
+
+![](/images/terminal.png)
+
+
+
 #### **Cleaning up test by re-using code**
 
 With time, as your test suite grows bigger and bigger, selectors will take up a large amount of space in your tests.
