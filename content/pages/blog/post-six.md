@@ -6,8 +6,7 @@ date: '2021-10-29'
 author: content/data/team/doris-soto.json
 excerpt: >-
   In the software testing world, there are two types of testing — manual and
-  automated testing. The aim for both is to execute testcases and take the
-  outcome and compare with them expected results.
+  automated testing. 
 featuredImage:
   type: ImageBlock
   url: /images/header2.jpg
