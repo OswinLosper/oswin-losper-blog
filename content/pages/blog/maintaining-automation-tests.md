@@ -14,7 +14,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/maintaining-your-automation-tests2-7280ffec.jpg
-  altText: Post thumbnail image
+  altText: Maintaining Automation Tests
   caption: ''
 bottomSections: []
 author: content/data/team/doris-soto.json
