@@ -12,6 +12,7 @@ featuredImage:
   type: ImageBlock
   url: /images/header2.jpg
   altText: Post thumbnail image
+  caption: Automation Testing Types
 bottomSections:
   - elementId: ''
     type: RecentPostsSection
