@@ -1,6 +1,6 @@
 ---
 title: OSWIN LOSPER 6
-colors: colors-a
+colors: colors-d
 backgroundImage:
   url: /images/bg2.jpg
   backgroundSize: cover
