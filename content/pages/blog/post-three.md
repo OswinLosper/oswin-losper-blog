@@ -31,7 +31,7 @@ bottomSections:
           - mr-0
         padding:
           - pt-5
-          - pb-5
+          - pb-1
           - pr-4
           - pl-4
         justifyContent: center
