@@ -47,7 +47,7 @@ bottomSections:
         textAlign: left
       actions:
         justifyContent: center
-    title: null
+    title: Recent Posts
     subtitle: Recent Posts
     recentCount: 3
 author: content/data/team/doris-soto.json
