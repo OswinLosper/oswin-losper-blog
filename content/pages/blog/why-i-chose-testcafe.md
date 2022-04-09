@@ -17,7 +17,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/whyTestCafe.jpg
-  altText: Post thumbnail image
+  altText: Why I Chose TestCafe
   caption: ''
 bottomSections: []
 ---
