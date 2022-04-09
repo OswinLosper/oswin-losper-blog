@@ -47,13 +47,48 @@ bottomSections:
     showFeaturedImage: true
     showReadMoreLink: true
 ---
+In the software testing world, there are two types of testing — manual and automated testing.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+The aim for both is to execute test cases and take the outcome and compare with them expected results.
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+Manual testing is the type of testing that requires more human interactions to make sure is doing what it is supposed to do
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+Manual testing works very good for specific tests cases, but using manual testing takes up a lot of time and has proved to be ineffective over time when a human needs to do the same stuff over and over again.
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+In the software development world we life in today there are consistent and successive delve-meant cycle and deployments going out, all of this requires a repetitive tests that needs to run to ensure new updates doesn’t break the system.
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+This is where automation testing comes in. It takes the repetitive side away from the human. Since automation has became a very important step in the development life cycle, many different types of automation has been introduced and with this many robust testing tools have allowed automation testers to simply write new scripts and replay test-suites over and over. This goes with saying, it frees up a lot of time, valuable resources and boost business productivity.
+
+Below is a list of the most popular types of automation tester that any testers should know and be well prepared for it before starting your automation journey.
+
+#### **Different Types of Automation Tests**
+
+##### **Type of testing**
+
+There are 2 main types, functional and non-functional:
+
+**Functional:** is a type of software testing that validates the software system against the functional requirements/specifications. The purpose of Functional tests is to test each function of the software application, by providing appropriate input, verifying the output against the Functional requirements
+
+**Non-functional:** is defined as a type of Software testing to check non-functional aspects (performance, usability, reliability, etc) of a software application. It is designed to test the readiness of a system as per nonfunctional parameters which are never addressed by functional testing. A good example of non-functional test would be to check how many people can simultaneously login into a software.
+
+Below is a list of the most popular types of automation tester that any tester should know and be well prepared for it before starting your automation journey.
+
+**Smoke Tests:** Smoke tests are a type of Functional test that only covers the most important features of software to ensure that it could be further tested without “catching fire,” hence the name Smoke Tests.
+
+**Integration Tests:** Integration tests take all the individual pieces and functionalities of software and test them together as a whole to guarantee smooth operation between all of them.
+
+**Regression Tests:** Regression tests run a combination of Functional and Non-functional tests to check if the software has “regressed” after changes has been made
+
+**Security Tests:** Security tests cover Functional and Non-functional tests that screen the software for any vulnerabilities. They reveal weaknesses and any potential exploit in a system.
+
+**Performance Tests:** Performance tests are often Non-functional tests that help testers evaluate criteria like responsiveness and stability as the software handles load and stress.
+
+**Acceptance Tests:** Acceptance tests are Functional tests that determine how acceptable the software is to the end users. This is the final test a solution must pass before it could be released.
+
+##### **Phase of testing**
+
+**Unit:** As the name implies, this phase the individual components of a software. Unit testing is the very first phase of testing, usually done by developers before handing the software off to testers, but it could also be automated.
+
+**API:** Application Programming Interface (or API for short) acts as the “middleman” between all of the systems that your software uses, and thus, is then tested after the development process to ensure smooth integration between systems and software. This phase of testing is fairly flexible; it could be conducted either before or after the UI phase, this can be done by either the development or the testing team.
+
+**UI:** Last but not least, User Interface (UI testing) is what the end users see and interact with and, this is usually tested at the very end of the process. This phase of testing is run by testers after the UI of the application has been drafted for the most authentic replication of user experience possible. This is where the business logic of the software is examined and optimised.
