@@ -17,7 +17,40 @@ featuredImage:
   url: /images/whyTestCafe.jpg
   altText: Why I Chose TestCafe
   caption: Why I Chose TestCafe
-bottomSections: []
+bottomSections:
+  - type: RecentPostsSection
+    colors: colors-f
+    elementId: ''
+    showDate: true
+    showAuthor: false
+    showExcerpt: true
+    showFeaturedImage: false
+    showReadMoreLink: true
+    variant: variant-b
+    actions:
+      - label: See all posts
+        altText: See all posts
+        url: /blog
+        type: Link
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: center
+    title: null
+    subtitle: Posts
+    recentCount: 3
 ---
 When I started at Wyzetalk, it was no different. I had to go through the same as a lot of automation testers, R\&D, the right approach for automation testing and which tool will bring the most value.
 
