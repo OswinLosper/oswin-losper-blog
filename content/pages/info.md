@@ -82,7 +82,7 @@ sections:
         text: |+
           **Matric  - 2008**
 
-          *   Concordia Secondary School computer sciense at a semi fancy school
+          *   Concordia Secondary School
 
           **Northlink College - 2009 - 2011**
 
