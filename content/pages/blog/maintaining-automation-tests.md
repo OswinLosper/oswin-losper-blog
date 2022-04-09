@@ -48,7 +48,7 @@ bottomSections:
       actions:
         justifyContent: center
     title: Recent Posts
-    subtitle: Recent Posts
+    subtitle: Some of Recent Posts
     recentCount: 3
 author: content/data/team/doris-soto.json
 ---
