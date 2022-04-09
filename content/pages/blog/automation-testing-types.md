@@ -9,8 +9,9 @@ title: Automation Testing Types
 colors: colors-a
 date: '2021-10-29'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  In the software testing world, there are two types of testing — manual and
+  automated testing. The aim for both is to execute testcases and take the
+  outcome and compare with them expected results.
 featuredImage:
   type: ImageBlock
   url: /images/header2.jpg
