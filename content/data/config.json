@@ -3,7 +3,7 @@
     "favicon": "/images/LOGO.png",
     "header": {
         "headerVariant": "variant-c",
-        "isSticky": true,
+        "isSticky": false,
         "title": "Oswin Losper",
         "isTitleVisible": false,
         "primaryLinks": [
