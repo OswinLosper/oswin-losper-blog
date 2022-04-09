@@ -40,7 +40,7 @@ bottomSections:
           - pl-4
         justifyContent: center
         borderColor: border-primary
-        borderWidth: 1
+        borderWidth: 0
         borderStyle: none
       title:
         textAlign: left
