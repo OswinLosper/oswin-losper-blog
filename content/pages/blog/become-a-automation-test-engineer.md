@@ -50,7 +50,6 @@ bottomSections:
     title: 'Recent Posts:'
     subtitle: Some Recent Posts
     posts:
-      - content/pages/blog/post-five.md
       - content/pages/blog/post-four.md
       - content/pages/blog/post-three.md
 ---
