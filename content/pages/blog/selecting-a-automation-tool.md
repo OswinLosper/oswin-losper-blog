@@ -16,7 +16,40 @@ featuredImage:
   url: /images/Selecting a tool.jpg
   altText: Selecting A Automation Tool
   caption: Selecting A Automation Tool
-bottomSections: []
+bottomSections:
+  - type: RecentPostsSection
+    colors: colors-f
+    elementId: ''
+    showDate: true
+    showAuthor: false
+    showExcerpt: true
+    showFeaturedImage: false
+    showReadMoreLink: true
+    variant: variant-b
+    actions:
+      - label: See all posts
+        altText: See all posts
+        url: /blog
+        type: Link
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: center
+    title: null
+    subtitle: Posts
+    recentCount: 3
 ---
 Today there are lots of different options to choose from, be it a laptop, phone or tablet. In the world we live in today, we have so many options that sometimes the choices we make are not necessarily the right ones but the popular ones.. For automation tools it's no different.
 
