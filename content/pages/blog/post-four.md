@@ -2,7 +2,7 @@
 title: Selecting a Automation Tool
 colors: colors-a
 layout: PostLayout
-date: '2021-12-01'
+date: '2021-10-22'
 author: content/data/team/doris-soto.json
 excerpt: More context that may or may not be helpful
 featuredImage:
