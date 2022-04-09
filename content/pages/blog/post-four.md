@@ -4,7 +4,9 @@ colors: colors-a
 layout: PostLayout
 date: '2021-10-22'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: >-
+  Depending on what your needs are, your automation testing tool must be
+  compatible with many different aspects of your team and company
 featuredImage:
   type: ImageBlock
   url: /images/automation-testing.svg
