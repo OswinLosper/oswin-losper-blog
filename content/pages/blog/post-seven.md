@@ -111,17 +111,82 @@ bottomSections:
         textAlign: left
 addTitleSuffix: true
 ---
+QA used to consist of two types of testing, namely, manual testing and automation testing.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+Manual testers main task was to do regression testing while automation tester was only focussed on writing code and scripts.
 
-## Good habits
+The connection between the two was a rare thing, expect when the automation engineers wanted to explore additional test cases to automate.
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+However in the world we live today, its different. Yes, both manual and automation testing is still important, I am still of the believe that automation is not there to replace manual testing, however the gap between manual and the automation world is getting smaller and smaller.
 
-> “Everybody should learn to program a computer, because it teaches you how to think.”
+Its important for manual and automation to work together, but most importantly, to make sure that both sides understands each other tasks. This is a strategy we implement at my current workplace, Wyzetalk, ever since we switched to this approach, workflow has been much more beneficial for all parties involved.
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+When applying for new jobs, some companies requires that candidates to have experience in both manual and automation testing. This leaves the questions, where do I start to become a automation tester? What skills do I need for this?
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+I was in the same boat years ago. I started of as a web designer, had no experience in automation testing. Thankfully, like all problems, it not a hard problem to solve, however it requires action on your part.
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+There are 2 main focus areas to become a successful automation engineer. Keep in mind that requirements can depend on the role and can have additional requirements, but below is a list of basic requirements.
+
+##### **Development Languages**
+
+Number one, you need to know a specific language. Like mentioned above, this can depend on the role you are applying for, but most of the time when you know the popular languages like Java or Javascript, it should be enough
+
+You dont have to be a experienced developer but it would be good if you have enough knowledge to write automation tests and scripts. I would recommend the basic fundamentals.
+
+*   Classes, objects, and methods
+
+*   Inheritance
+
+*   Strings, Integers
+
+*   Interface concept and how to use it
+
+*   Polymorphism
+
+*   Arrays (single and multi-dimensional)
+
+*   Override and overload
+
+*   Access modifiers
+
+*   Date class
+
+*   Role of constructors
+
+These should be enough to start writing automation code.
+
+##### **Framework for UI Automation testing**
+
+Unit testing allows us to verify that different modules of our application are operating in the correct manner, but we also need to test applications from a UI end-to-end point.
+
+In a previous article I wrote about, I dive deeper into what you must consider in [selecting a automation tool](https://oswinlosper.co.za/posts/selecting-a-automation-tool/), below is a brief breakdown of breakdown in performing tests on a UI framework:
+
+*   Creating a new project in your favorite IDE
+
+*   Setting up dependencies in a build management system
+
+*   Creating a base class for the framework
+
+*   Setting up global properties for your project
+
+*   Implementing the page-object model for your project
+
+*   Writing test cases for your project
+
+*   Grouping your test cases
+
+*   Wiring up a tool for generating reports and screenshots for failed test cases
+
+*   Running your test cases efficiently by using an automation tool
+
+*   Analyzing the result of executed test cases
+
+##### **Conclusion**
+
+After you finished the framework, one important thing that people are not doing in the automation testing world, is to manage the automation suite, this must to be done in order for the automation tests to bring value and longevity to the quality of your project
+
+The specifics of writing UI automation code would depend on a platform (e.g mobile or desktop) and other factors, but this is basically what you need to focus your attention to.
+
+In a nut shell, write test and report on results of test cases.
+
+I hope this article will give you a better understand of what you need to do to make the switch to be a automation test engineer.
