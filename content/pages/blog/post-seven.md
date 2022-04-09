@@ -8,7 +8,7 @@ excerpt: More context that may or may not be helpful
 featuredImage:
   type: ImageBlock
   url: /images/no-text.png
-  altText: Post thumbnail image
+  altText: What you need to know to become an automation test engineer
 backgroundImage:
   url: /images/gallery-3.jpg
   backgroundSize: cover
