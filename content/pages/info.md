@@ -126,8 +126,6 @@ sections:
       - type: Label
         label: ADOBE
       - type: Label
-        label: C++
-      - type: Label
         label: Swift
   - type: DividerSection
     styles:
