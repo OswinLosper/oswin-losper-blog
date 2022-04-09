@@ -9,7 +9,7 @@ excerpt: >-
   compatible with many different aspects of your team and company
 featuredImage:
   type: ImageBlock
-  url: /images/automation-testing.svg
+  url: /images/Selecting a tool.jpg
   altText: Post thumbnail image
 bottomSections:
   - elementId: ''
