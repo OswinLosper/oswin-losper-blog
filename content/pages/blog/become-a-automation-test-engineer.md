@@ -57,7 +57,7 @@ bottomSections:
     colors: colors-f
     elementId: ''
     showDate: true
-    showAuthor: false
+    showAuthor: true
     showExcerpt: true
     showFeaturedImage: true
     showReadMoreLink: true
