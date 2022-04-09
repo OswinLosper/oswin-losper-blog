@@ -17,7 +17,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/Selecting a tool.jpg
-  altText: Post thumbnail image
+  altText: Selecting A Automation Tool
   caption: ''
 bottomSections: []
 ---
