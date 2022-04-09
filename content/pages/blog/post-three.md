@@ -30,7 +30,7 @@ bottomSections:
           - ml-0
           - mr-0
         padding:
-          - pt-5
+          - pt-1
           - pb-1
           - pr-4
           - pl-4
