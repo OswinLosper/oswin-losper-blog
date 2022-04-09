@@ -27,6 +27,15 @@ bottomSections:
     showReadMoreLink: true
     variant: variant-b
     actions:
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
       - label: See all posts
         altText: See all posts
         url: /blog
