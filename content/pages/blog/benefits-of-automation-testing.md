@@ -15,7 +15,7 @@ featuredImage:
   type: ImageBlock
   url: /images/benefits 2.jpg
   altText: Benefits of Automation Testing
-  caption: ''
+  caption: Benefits of Automation Testing
 bottomSections:
   - type: RecentPostsSection
     colors: colors-f
