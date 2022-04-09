@@ -18,7 +18,7 @@ featuredImage:
   caption: Automation Testing Types
 bottomSections:
   - type: RecentPostsSection
-    colors: colors-f
+    colors: colors-c
     elementId: ''
     showDate: true
     showAuthor: true
