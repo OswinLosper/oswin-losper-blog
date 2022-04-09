@@ -80,7 +80,7 @@
             },
             {
                 "type": "Link",
-                "label": "Learn more",
+                "label": "LINKED",
                 "altText": "",
                 "url": "/",
                 "showIcon": false,
