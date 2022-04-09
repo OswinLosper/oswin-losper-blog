@@ -7,9 +7,6 @@ socialImage: null
 metaTags: []
 title: Why I Chose TestCafe
 colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg2.jpg
 date: '2021-09-28'
 excerpt: Choosing a framework to run automation test on can be tricky.
 featuredImage:
