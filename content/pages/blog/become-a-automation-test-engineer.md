@@ -54,7 +54,7 @@ bottomSections:
       - content/pages/blog/post-three.md
       - content/pages/blog/maintaining-automation-tests.md
   - type: RecentPostsSection
-    colors: colors-f
+    colors: colors-c
     elementId: ''
     showDate: true
     showAuthor: true
