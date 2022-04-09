@@ -21,7 +21,7 @@ featuredImage:
   caption: Becoming An Automation Tester
 bottomSections:
   - type: FeaturedPostsSection
-    colors: colors-a
+    colors: colors-c
     elementId: ''
     showDate: true
     showAuthor: true
