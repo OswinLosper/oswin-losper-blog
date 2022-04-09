@@ -11,6 +11,19 @@ featuredImage:
   altText: Why I Chose TestCafe
   caption: Why I Chose TestCafe
 bottomSections:
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: narrow
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
   - elementId: ''
     type: RecentPostsSection
     colors: colors-f
@@ -47,19 +60,6 @@ bottomSections:
         justifyContent: center
     showFeaturedImage: true
     showReadMoreLink: true
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    styles:
-      self:
-        width: narrow
-        padding:
-          - pt-36
-          - pb-36
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
 ---
 When I started at Wyzetalk, it was no different. I had to go through the same as a lot of automation testers, R\&D, the right approach for automation testing and which tool will bring the most value.
 
