@@ -7,9 +7,6 @@ socialImage: null
 metaTags: []
 title: Maintaining Automation Tests
 colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg2.jpg
 date: '2022-01-28'
 excerpt: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
