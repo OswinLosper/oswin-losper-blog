@@ -127,7 +127,7 @@ sections:
         label: ADOBE
     styles:
       self:
-        justifyContent: flex-start
+        justifyContent: center
   - type: DividerSection
     styles:
       self:
