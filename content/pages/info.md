@@ -79,18 +79,15 @@ sections:
               - pr-0
         title: Experience
       - type: FeaturedItem
-        text: |-
-          **2015-2018**
+        text: |+
+          **Matric  - 2008**
 
-          * ba computer sciense at a semi fancy school
+          *   Concordia Secondary School computer sciense at a semi fancy school
 
-          **2014**
+          **Northlink College - 2009 - 2011**
 
-          * react certificate somewhere
+          *   2009 - 2012 Information  Certificate
 
-          **2011**
-
-          * my highschool
         styles:
           self:
             textAlign: left
