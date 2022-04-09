@@ -3,7 +3,10 @@ colors: colors-d
 layout: PostLayout
 date: '2021-09-16'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: >-
+  Web applications today are getting more complex on a day to day basis.
+  Stakeholders and clients have much bigger expectations of what web
+  applications need to do these days.
 featuredImage:
   type: ImageBlock
   url: /images/benefits 2.jpg
