@@ -17,7 +17,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/no-text.png
-  altText: Post thumbnail image
+  altText: Becoming An Automation Tester
   caption: ''
 bottomSections: []
 ---
