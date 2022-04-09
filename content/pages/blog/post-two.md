@@ -2,7 +2,7 @@
 title: Benefits of Automation Testing
 colors: colors-d
 layout: PostLayout
-date: '2021-11-03'
+date: '2021-09-16'
 author: content/data/team/doris-soto.json
 excerpt: More context that may or may not be helpful
 featuredImage:
