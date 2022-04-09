@@ -147,23 +147,7 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |+
-          **Current**
-
-          *   freelance @freelance.me
-
-          **2018-2021**
-
-          *   fullstack at this startup
-
-          **2015**
-
-          *   senior front-end at this place
-
-          **2013**
-
-          *   intern developer at a big company
-
+        text: "**Current - 20Fifty**\n\n*   Senior QA Automation Engineer\n\n**SEPT 2019 - FEB 2022 - Wyzetalk**\n\n*   Front End Automation Tester\n\n**Sep 2017 - Sep 2019 - iPlatfrom**\n\n*   Web Design & Front End Automation Tester\n\n**Aug 2013 - Aug 2017 -**\_ **bOnline**\n\n*   Senior Designer & Team Lead\n\n"
         styles:
           self:
             textAlign: left
