@@ -18,7 +18,7 @@ featuredImage:
   caption: Maintaining Automation Tests
 bottomSections:
   - type: RecentPostsSection
-    colors: colors-f
+    colors: colors-d
     elementId: ''
     showDate: true
     showAuthor: true
