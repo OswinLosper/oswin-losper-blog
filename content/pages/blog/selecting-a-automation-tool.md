@@ -18,7 +18,7 @@ featuredImage:
   caption: Selecting A Automation Tool
 bottomSections:
   - type: RecentPostsSection
-    colors: colors-f
+    colors: colors-c
     elementId: ''
     showDate: true
     showAuthor: true
