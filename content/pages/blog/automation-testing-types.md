@@ -15,7 +15,7 @@ featuredImage:
   type: ImageBlock
   url: /images/header2.jpg
   altText: Automation Testing Types
-  caption: ''
+  caption: Automation Testing Types
 bottomSections: []
 author: content/data/team/doris-soto.json
 ---
