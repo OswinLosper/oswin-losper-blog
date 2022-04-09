@@ -11,9 +11,7 @@ backgroundImage:
   type: BackgroundImage
   url: /images/bg2.jpg
 date: '2021-09-28'
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerpt: Choosing a framework to run automation test on can be tricky.
 featuredImage:
   type: ImageBlock
   url: /images/whyTestCafe.jpg
