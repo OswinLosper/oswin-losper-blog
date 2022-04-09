@@ -60,6 +60,7 @@ bottomSections:
         justifyContent: center
     showFeaturedImage: true
     showReadMoreLink: true
+    title: Recent Posts
 ---
 When I started at Wyzetalk, it was no different. I had to go through the same as a lot of automation testers, R\&D, the right approach for automation testing and which tool will bring the most value.
 
