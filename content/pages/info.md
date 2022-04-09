@@ -125,6 +125,9 @@ sections:
         label: JAVASCRIPT
       - type: Label
         label: ADOBE
+    styles:
+      self:
+        justifyContent: center
   - type: DividerSection
     styles:
       self:
