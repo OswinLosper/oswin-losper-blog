@@ -72,6 +72,7 @@ sections:
         width: narrow
         height: auto
         borderStyle: solid
+        borderWidth: 0
   - type: DividerSection
     styles:
       self:
