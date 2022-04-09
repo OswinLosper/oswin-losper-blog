@@ -120,7 +120,7 @@ sections:
       - type: Label
         label: STYLE COMPONENTS
       - type: Label
-        label: Next.js
+        label: CSS
       - type: Label
         label: Stackbit
       - type: Label
