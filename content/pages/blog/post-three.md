@@ -4,7 +4,11 @@ colors: colors-a
 layout: PostLayout
 date: '2021-09-28'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: >-
+  Choosing a framework to run your automation test against can be tricky. This
+  can cause a lot of uncertainty. There are a lot of good tools out there to
+  write and run end-to-end tests. Deciding on your automation tool does depend
+  on your product or project and what you want to get out of automation testing.
 featuredImage:
   type: ImageBlock
   url: /images/automation-testing.svg
