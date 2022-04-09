@@ -126,5 +126,5 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
-    title: 'Experience & Educaiton '
+    title: 'Experience & Education '
 ---
