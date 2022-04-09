@@ -25,7 +25,7 @@ postFeed:
         - mr-0
       padding:
         - pt-0
-        - pb-5
+        - pb-10
         - pl-4
         - pr-4
       justifyContent: center
