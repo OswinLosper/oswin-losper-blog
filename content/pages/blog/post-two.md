@@ -3,7 +3,7 @@ colors: colors-d
 layout: PostLayout
 date: '2021-09-16'
 author: content/data/team/doris-soto.json
-excerpt: 'Web applications today are getting more complex on a day to day basis. '
+excerpt: Web applications today are getting more complex on a day to day basis.
 featuredImage:
   type: ImageBlock
   url: /images/benefits 2.jpg
