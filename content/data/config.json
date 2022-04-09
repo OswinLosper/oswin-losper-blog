@@ -13,7 +13,6 @@
                 "altText": "Home",
                 "url": "/",
                 "showIcon": true,
-                "icon": "send",
                 "iconPosition": "right",
                 "elementId": ""
             },
