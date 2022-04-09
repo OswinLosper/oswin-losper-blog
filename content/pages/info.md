@@ -86,7 +86,7 @@ sections:
 
           **Northlink College - 2009 - 2011**
 
-          *   2009 - 2012 Information  Certificate
+          *   2009 - 2012 Information  Technology
 
         styles:
           self:
