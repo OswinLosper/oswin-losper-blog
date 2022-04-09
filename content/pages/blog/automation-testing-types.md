@@ -31,6 +31,7 @@ bottomSections:
         altText: See all posts
         url: /blog
         type: Link
+        showIcon: true
     styles:
       self:
         height: auto
