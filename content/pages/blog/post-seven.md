@@ -2,7 +2,7 @@
 title: Becoming an automation test engineer
 colors: colors-d
 layout: PostLayout
-date: '2022-01-04'
+date: '2021-11-19'
 author: content/data/team/doris-soto.json
 excerpt: More context that may or may not be helpful
 featuredImage:
