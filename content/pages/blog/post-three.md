@@ -37,6 +37,7 @@ bottomSections:
         justifyContent: center
         borderStyle: solid
         borderRadius: full
+        borderWidth: 1
       title:
         textAlign: left
       subtitle:
