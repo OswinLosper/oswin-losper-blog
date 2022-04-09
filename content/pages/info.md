@@ -26,7 +26,7 @@ sections:
           - pl-4
           - pr-4
         justifyContent: center
-        borderWidth: 5
+        borderWidth: 0
         borderStyle: dotted
         borderRadius: medium
       title:
