@@ -27,7 +27,7 @@ sections:
           - pr-4
         justifyContent: center
         borderWidth: 0
-        borderStyle: dotted
+        borderStyle: none
         borderRadius: medium
       title:
         textAlign: left
