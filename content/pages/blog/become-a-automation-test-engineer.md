@@ -7,9 +7,6 @@ socialImage: null
 metaTags: []
 title: Becoming An Automation Tester
 colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg2.jpg
 date: '2021-11-19'
 excerpt: >-
   QA used to consist of two types of testing, namely, manual testing and
