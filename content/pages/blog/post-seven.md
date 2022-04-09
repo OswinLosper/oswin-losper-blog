@@ -1,5 +1,5 @@
 ---
-title: Oswin Losper 1
+title: What you need to know to become an automation test engineer
 colors: colors-d
 layout: PostLayout
 date: '2022-01-04'
