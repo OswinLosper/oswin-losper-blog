@@ -62,6 +62,16 @@
         "primaryLinks": [
             {
                 "type": "Link",
+                "label": "Home",
+                "altText": "Home",
+                "url": "/home",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
                 "label": "About",
                 "url": "/info",
                 "altText": "About Oswin Losper"
@@ -83,16 +93,6 @@
                 "label": "LINKED IN",
                 "altText": "",
                 "url": "https://www.linkedin.com/in/oswin-losper-21520330/",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": ""
-            },
-            {
-                "type": "Link",
-                "label": "Home",
-                "altText": "Home",
-                "url": "/home",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
