@@ -16,7 +16,7 @@ bottomSections:
     elementId: ''
     styles:
       self:
-        width: narrow
+        width: wide
         padding:
           - pt-1
           - pb-1
