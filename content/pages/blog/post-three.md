@@ -4,7 +4,7 @@ colors: colors-a
 layout: PostLayout
 date: '2021-09-28'
 author: content/data/team/doris-soto.json
-excerpt: ' a framework to run automation test against can be tricky.'
+excerpt: Choosing a framework to run automation test against can be tricky.
 featuredImage:
   type: ImageBlock
   url: /images/whyTestCafe.jpg
