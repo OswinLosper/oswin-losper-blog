@@ -5,7 +5,7 @@ layout: PostLayout
 date: '2022-01-28'
 author: content/data/team/doris-soto.json
 excerpt: >-
-  If you do maintain your automation tests, it will reduce the risks and
+  If you do maintaining your automation tests, it will reduce the risks and
   difficulties for everyone involve on the project. 
 featuredImage:
   type: ImageBlock
