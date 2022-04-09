@@ -18,7 +18,7 @@ featuredImage:
   type: ImageBlock
   url: /images/Selecting a tool.jpg
   altText: Selecting A Automation Tool
-  caption: ''
+  caption: Selecting A Automation Tool
 bottomSections: []
 ---
 Today there are lots of different options to choose from, be it a laptop, phone or tablet. In the world we live in today, we have so many options that sometimes the choices we make are not necessarily the right ones but the popular ones.. For automation tools it's no different.
