@@ -50,53 +50,6 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-  - type: MediaGallerySection
-    colors: colors-f
-    subtitle: 'Skills:'
-    images:
-      - type: ImageBlock
-        url: /images/automation-testing.svg
-        altText: Logo one
-        caption: Logo one
-      - type: ImageBlock
-        url: /images/html.svg
-        altText: Logo two
-        caption: Logo two
-      - type: ImageBlock
-        url: /images/css.svg
-        altText: Logo three
-        caption: Logo three
-      - type: ImageBlock
-        url: /images/style-components.svg
-        altText: Logo four
-        caption: Logo four
-      - type: ImageBlock
-        url: /images/adobe.svg
-        altText: Logo five
-        caption: Logo five
-    spacing: 3
-    columns: 5
-    aspectRatio: auto
-    showCaption: true
-    enableHover: true
-    styles:
-      self:
-        width: narrow
-        height: auto
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
   - type: DividerSection
     styles:
       self:
