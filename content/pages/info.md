@@ -118,7 +118,7 @@ sections:
       - type: Label
         label: HTML
       - type: Label
-        label: Microsoft Office
+        label: STYLE COMPONENTS
       - type: Label
         label: Next.js
       - type: Label
