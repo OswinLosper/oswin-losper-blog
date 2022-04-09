@@ -12,8 +12,8 @@ backgroundImage:
   url: /images/bg2.jpg
 date: '2021-11-19'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  QA used to consist of two types of testing, namely, manual testing and
+  automation testing.
 featuredImage:
   type: ImageBlock
   url: /images/no-text.png
