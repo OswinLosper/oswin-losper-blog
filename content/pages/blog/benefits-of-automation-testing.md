@@ -7,9 +7,6 @@ socialImage: null
 metaTags: []
 title: Benefits Of Automation Testing
 colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg2.jpg
 date: '2021-09-16'
 excerpt: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
