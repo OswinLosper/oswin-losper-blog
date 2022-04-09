@@ -122,7 +122,7 @@ sections:
       - type: Label
         label: CSS
       - type: Label
-        label: Stackbit
+        label: JAVASCRIPT
       - type: Label
         label: Pancakes
       - type: Label
