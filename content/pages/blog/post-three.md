@@ -12,7 +12,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/whyTestCafe.jpg
-  altText: Post thumbnail image
+  altText: 'Why '
 bottomSections:
   - elementId: ''
     type: RecentPostsSection
