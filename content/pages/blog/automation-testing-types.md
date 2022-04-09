@@ -7,9 +7,6 @@ socialImage: null
 metaTags: []
 title: Automation Testing Types
 colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg2.jpg
 date: '2021-10-29'
 excerpt: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
