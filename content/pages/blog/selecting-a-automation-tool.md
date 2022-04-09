@@ -7,9 +7,6 @@ socialImage: null
 metaTags: []
 title: Selecting A Automation Tool
 colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg2.jpg
 date: '2021-10-22'
 excerpt: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
