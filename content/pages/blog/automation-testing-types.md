@@ -21,6 +21,7 @@ media:
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
   altText: Post image
 bottomSections: []
+author: content/data/team/doris-soto.json
 ---
 In the software testing world, there are two types of testing — manual and automated testing.
 
