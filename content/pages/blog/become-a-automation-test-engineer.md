@@ -17,42 +17,6 @@ featuredImage:
   altText: Becoming An Automation Tester
   caption: Becoming An Automation Tester
 bottomSections:
-  - type: FeaturedPostsSection
-    colors: colors-c
-    elementId: ''
-    showDate: true
-    showAuthor: true
-    showExcerpt: true
-    showFeaturedImage: true
-    showReadMoreLink: true
-    variant: variant-b
-    actions:
-      - type: Link
-        label: See all posts
-        altText: See all posts
-        url: /blog
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-16
-          - pb-16
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: center
-    title: 'Recent Posts:'
-    subtitle: Some Recent Posts
-    posts:
-      - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
-      - content/pages/blog/maintaining-automation-tests.md
   - type: RecentPostsSection
     colors: colors-c
     elementId: ''
