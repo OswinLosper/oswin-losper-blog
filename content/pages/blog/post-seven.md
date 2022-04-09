@@ -1,5 +1,5 @@
 ---
-title: Becoming an automation engineer
+title: Becoming an automation tester
 colors: colors-d
 layout: PostLayout
 date: '2021-11-19'
