@@ -14,7 +14,12 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/benefits 2.jpg
-  altText: Post thumbnail image
+  altText: >-
+    Web applications today are getting more complex on a day to day basis.
+    Stakeholders and clients have much bigger expectations of what web
+    applications need to do these days. The days are gone having simple
+    informative websites. Today a much more complex page with real time
+    responses seems the new normal.
   caption: ''
 bottomSections:
   - type: RecentPostsSection
