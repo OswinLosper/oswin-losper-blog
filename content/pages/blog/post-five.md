@@ -4,7 +4,9 @@ colors: colors-a
 layout: PostLayout
 date: '2022-01-28'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: >-
+  If you do maintain your automation tests, it will reduce the risks and
+  difficulties for everyone involve on the project. 
 featuredImage:
   type: ImageBlock
   url: /images/maintaining-your-automation-tests2.jpg
