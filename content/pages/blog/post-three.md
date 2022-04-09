@@ -11,7 +11,7 @@ excerpt: >-
   on your product or project and what you want to get out of automation testing.
 featuredImage:
   type: ImageBlock
-  url: /images/whyTestCafe Side.png
+  url: /images/whyTestCafe.jpg
   altText: Post thumbnail image
 bottomSections:
   - elementId: ''
