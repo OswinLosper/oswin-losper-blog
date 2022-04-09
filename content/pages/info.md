@@ -40,7 +40,6 @@ sections:
     type: HeroSection
   - type: LabelsSection
     colors: colors-c
-    subtitle: 'Skills:'
     items:
       - type: Label
         label: TEST AUTOMATION
