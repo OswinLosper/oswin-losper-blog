@@ -9,12 +9,6 @@ featuredImage:
   type: ImageBlock
   url: /images/automation-testing.svg
   altText: Post thumbnail image
-backgroundImage:
-  url: /images/gallery-2.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 10
 bottomSections:
   - elementId: ''
     type: RecentPostsSection
