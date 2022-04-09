@@ -52,7 +52,7 @@ sections:
         borderStyle: solid
   - type: MediaGallerySection
     colors: colors-f
-    subtitle: Skills
+    subtitle: 'Skills:'
     images:
       - type: ImageBlock
         url: /images/automation-testing.svg
