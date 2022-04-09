@@ -10,7 +10,7 @@ excerpt: >-
   outcome and compare with them expected results.
 featuredImage:
   type: ImageBlock
-  url: /images/maintaining-your-automation-tests2.jpg
+  url: /images/header2.jpg
   altText: Post thumbnail image
 bottomSections:
   - elementId: ''
