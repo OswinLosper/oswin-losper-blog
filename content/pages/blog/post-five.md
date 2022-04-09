@@ -2,7 +2,7 @@
 title: OSWIN LOSPER 3
 colors: colors-a
 layout: PostLayout
-date: '2021-12-02'
+date: '2022-01-28'
 author: content/data/team/doris-soto.json
 excerpt: More context that may or may not be helpful
 featuredImage:
