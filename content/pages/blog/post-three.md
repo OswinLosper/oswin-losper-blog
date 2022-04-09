@@ -38,7 +38,7 @@ bottomSections:
         borderStyle: solid
         borderRadius: xx-small
         borderWidth: 1
-        borderColor: border-complementary
+        borderColor: border-dark
       title:
         textAlign: left
       subtitle:
