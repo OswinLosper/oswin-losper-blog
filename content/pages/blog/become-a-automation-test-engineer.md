@@ -52,6 +52,7 @@ bottomSections:
     posts:
       - content/pages/blog/post-four.md
       - content/pages/blog/post-three.md
+      - content/pages/blog/maintaining-automation-tests.md
 ---
 QA used to consist of two types of testing, namely, manual testing and automation testing.
 
