@@ -53,6 +53,39 @@ bottomSections:
       - content/pages/blog/post-four.md
       - content/pages/blog/post-three.md
       - content/pages/blog/maintaining-automation-tests.md
+  - type: RecentPostsSection
+    colors: colors-f
+    elementId: ''
+    showDate: true
+    showAuthor: false
+    showExcerpt: true
+    showFeaturedImage: false
+    showReadMoreLink: true
+    variant: variant-b
+    actions:
+      - label: See all posts
+        altText: See all posts
+        url: /blog
+        type: Link
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: center
+    title: null
+    subtitle: Posts
+    recentCount: 3
 ---
 QA used to consist of two types of testing, namely, manual testing and automation testing.
 
