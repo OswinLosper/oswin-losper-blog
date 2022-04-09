@@ -84,7 +84,7 @@ bottomSections:
       actions:
         justifyContent: center
     title: Recent Posts
-    subtitle: SomePosts
+    subtitle: Some Recent  Posts
     recentCount: 3
 ---
 QA used to consist of two types of testing, namely, manual testing and automation testing.
