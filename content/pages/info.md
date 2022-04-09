@@ -116,7 +116,7 @@ sections:
       - type: Label
         label: TEST AUTOMATION
       - type: Label
-        label: React
+        label: HTML
       - type: Label
         label: Microsoft Office
       - type: Label
