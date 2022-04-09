@@ -5,8 +5,8 @@ layout: PostLayout
 date: '2021-10-22'
 author: content/data/team/doris-soto.json
 excerpt: >-
-  Depending on what your needs are, your automation testing tool must be
-  compatible with many different aspects of your team and company
+  Your automation testing tool must be compatible with many different aspects of
+  your team and company
 featuredImage:
   type: ImageBlock
   url: /images/Selecting a tool.jpg
