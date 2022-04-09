@@ -13,7 +13,7 @@ excerpt: >-
   condimentum dignissim justo vel faucibus.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/maintaining-your-automation-tests2-7280ffec.jpg
   altText: Post thumbnail image
   caption: ''
 bottomSections: []
