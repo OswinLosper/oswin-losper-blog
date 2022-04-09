@@ -125,8 +125,6 @@ sections:
         label: JAVASCRIPT
       - type: Label
         label: ADOBE
-      - type: Label
-        label: Swift
   - type: DividerSection
     styles:
       self:
