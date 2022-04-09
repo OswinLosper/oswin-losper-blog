@@ -19,7 +19,7 @@ featuredImage:
   caption: Why I Chose TestCafe
 bottomSections:
   - type: RecentPostsSection
-    colors: colors-f
+    colors: colors-c
     elementId: ''
     showDate: true
     showAuthor: true
