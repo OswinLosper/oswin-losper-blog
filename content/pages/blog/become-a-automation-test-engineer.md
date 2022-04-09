@@ -18,7 +18,7 @@ featuredImage:
   type: ImageBlock
   url: /images/no-text.png
   altText: Becoming An Automation Tester
-  caption: ''
+  caption: Becoming An Automation Tester
 bottomSections: []
 ---
 QA used to consist of two types of testing, namely, manual testing and automation testing.
