@@ -45,6 +45,6 @@ postFeed:
   subtitle: null
   showDate: true
   showAuthor: true
-  variant: variant-b
+  variant: variant-a
   actions: []
 ---
