@@ -6,7 +6,7 @@ addTitleSuffix: true
 socialImage: null
 metaTags: []
 title: Maintaining Automation Tests
-colors: colors-a
+colors: colors-d
 date: '2022-01-28'
 excerpt: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
