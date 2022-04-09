@@ -13,6 +13,7 @@ featuredImage:
   type: ImageBlock
   url: /images/whyTestCafe.jpg
   altText: Why I Chose Testcafe
+  caption: Why I Chose Testcafe
 bottomSections:
   - elementId: ''
     type: RecentPostsSection
