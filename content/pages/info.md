@@ -129,6 +129,7 @@ sections:
       self:
         justifyContent: center
         width: narrow
+        height: auto
   - type: DividerSection
     styles:
       self:
