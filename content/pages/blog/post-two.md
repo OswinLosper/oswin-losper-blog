@@ -10,7 +10,7 @@ featuredImage:
   url: /images/automation-testing.svg
   altText: Post thumbnail image
 media:
-  url: /images/benefits-26c76d4a.jpg
+  url: /images/benefits.jpg
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
