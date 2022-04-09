@@ -124,7 +124,7 @@ sections:
       - type: Label
         label: JAVASCRIPT
       - type: Label
-        label: Pancakes
+        label: ADOBE
       - type: Label
         label: C++
       - type: Label
