@@ -1,5 +1,5 @@
 ---
-title: OSWIN LOSPER 2
+title: Automation Testing Types
 colors: colors-a
 layout: PostLayout
 date: '2022-01-03'
