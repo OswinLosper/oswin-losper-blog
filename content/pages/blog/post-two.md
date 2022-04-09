@@ -41,7 +41,7 @@ bottomSections:
         justifyContent: center
         borderColor: border-primary
         borderWidth: 1
-        borderStyle: solid
+        borderStyle: none
       title:
         textAlign: left
       subtitle:
