@@ -9,7 +9,7 @@ excerpt: >-
   difficulties for everyone involve on the project. 
 featuredImage:
   type: ImageBlock
-  url: /images/maintaining-your-automation-tests2.jpg
+  url: /images/maintaining-your-automation-tests2-7280ffec.jpg
   altText: Post thumbnail image
 bottomSections:
   - elementId: ''
