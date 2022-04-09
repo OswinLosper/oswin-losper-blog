@@ -35,7 +35,7 @@ bottomSections:
           - pr-4
           - pl-4
         justifyContent: center
-        borderStyle: none
+        borderStyle: solid
       title:
         textAlign: left
       subtitle:
