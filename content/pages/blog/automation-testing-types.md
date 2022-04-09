@@ -32,7 +32,6 @@ bottomSections:
         url: /blog
         type: Link
         showIcon: true
-        icon: apple
     styles:
       self:
         height: auto
