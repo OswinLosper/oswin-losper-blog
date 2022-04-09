@@ -12,7 +12,7 @@
                 "label": "Home",
                 "altText": "Home",
                 "url": "/",
-                "showIcon": false,
+                "showIcon": true,
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "elementId": ""
