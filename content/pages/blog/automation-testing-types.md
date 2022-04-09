@@ -31,7 +31,7 @@ bottomSections:
         altText: See all posts
         url: /blog
         type: Link
-        showIcon: false
+        showIcon: true
         icon: apple
     styles:
       self:
