@@ -60,7 +60,7 @@ sections:
     styles:
       self:
         justifyContent: center
-        width: full
+        width: narrow
         height: auto
         borderStyle: solid
         borderWidth: 1
