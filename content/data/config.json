@@ -92,7 +92,7 @@
                 "type": "Link",
                 "label": "Home",
                 "altText": "Home",
-                "url": "/",
+                "url": "/home",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
