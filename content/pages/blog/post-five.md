@@ -44,6 +44,7 @@ bottomSections:
         justifyContent: center
     showFeaturedImage: true
     showReadMoreLink: true
+addTitleSuffix: true
 ---
 By now most companies (hopefully) must have automation testing or is in the progress to implement automation testing to their project. The benefits of automation testing is clear, refer to my article about, [benefits of automation testing](https://oswinlosper.co.za/posts/benefits-of-automation-testing/). 
 
