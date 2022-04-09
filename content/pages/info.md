@@ -71,6 +71,7 @@ sections:
         justifyContent: center
         width: narrow
         height: auto
+        borderStyle: solid
   - type: DividerSection
     styles:
       self:
