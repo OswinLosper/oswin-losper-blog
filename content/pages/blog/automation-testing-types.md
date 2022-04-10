@@ -13,7 +13,7 @@ excerpt: >-
   automated testing.
 featuredImage:
   type: ImageBlock
-  url: /images/header2.jpg
+  url: /images/automation-testing-types.png
   altText: Automation Testing Types
   caption: Automation Testing Types
 bottomSections:
