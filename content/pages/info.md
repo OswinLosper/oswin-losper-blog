@@ -78,6 +78,7 @@ sections:
         padding:
           - pl-0
           - pt-16
+          - pb-16
         margin:
           - ml-0
     title: Skills
