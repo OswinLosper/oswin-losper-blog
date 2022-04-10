@@ -8,10 +8,7 @@ metaTags: []
 title: Benefits Of Automation Testing
 colors: colors-c
 date: '2021-09-16'
-excerpt: >-
-  Web applications today are getting more complex on a day to day basis.
-  Stakeholders and clients have much bigger expectations of what web
-  applications need to do these days.
+excerpt: 'Web applications today are getting more complex on a day to day basis. '
 featuredImage:
   type: ImageBlock
   url: /images/benefits-2-NEW.jpg
