@@ -71,7 +71,7 @@ sections:
     styles:
       self:
         justifyContent: center
-        width: wide
+        width: narrow
         height: auto
         borderStyle: solid
         borderWidth: 1
