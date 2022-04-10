@@ -57,6 +57,7 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
+    subtitle: 'Automation '
   - type: RecentPostsSection
     colors: colors-c
     elementId: ''
