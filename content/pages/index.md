@@ -11,7 +11,7 @@ sections:
   - elementId: ''
     colors: colors-d
     backgroundSize: inset
-    title: 'Hey, I’m Oswin Losper'
+    title: 'Hi, I’m Oswin Losper'
     styles:
       self:
         height: auto
