@@ -76,7 +76,7 @@ sections:
         borderStyle: solid
         borderWidth: 1
         padding:
-          - pl-12
+          - pl-0
     title: Skills
   - type: FeaturedItemsSection
     colors: colors-f
