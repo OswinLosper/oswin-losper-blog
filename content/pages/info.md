@@ -42,7 +42,7 @@ sections:
     colors: colors-c
     items:
       - type: Label
-        label: TESTCAFE AUTOMATION
+        label: TEST AUTOMATION
       - type: Label
         label: HTML
       - type: Label
