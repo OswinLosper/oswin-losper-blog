@@ -51,7 +51,7 @@ sections:
     actions:
       - type: Button
         label: WANT TO KNOW MORE?
-        altText: ''
+        altText: About Me
         url: /info
         showIcon: false
         icon: arrowRight
