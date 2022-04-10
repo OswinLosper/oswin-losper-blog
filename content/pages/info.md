@@ -113,7 +113,7 @@ sections:
     colors: colors-f
     items:
       - type: FeaturedItem
-        text: "**Current - 20Fifty**\n\n*   Senior QA Automation Engineer\n\n**September 2019 - February 2022 - Wyzetalk**\n\n*   Front End Automation Tester\n\n**September 2017 - September 2019 - iPlatfrom**\n\n*   Web Design & Front End Automation Tester\n\n**August 2013 - August 2017 -**\_ **bOnline**\n\n*   Senior Designer & Team Lead\n\n"
+        text: "**Current - 20Fifty**\n\n*   Senior QA Automation Engineer\n\n**September 2019 - February 2022 - Wyzetalk**\n\n*   Front End Automation Tester\n\n**September 2017 - September 2019 - iPlatform**\n\n*   Web Design & Front End Automation Tester\n\n**August 2013 - August 2017 -**\_ **bOnline**\n\n*   Senior Designer & Team Lead\n\n"
         styles:
           self:
             textAlign: left
