@@ -53,9 +53,6 @@ sections:
         label: JAVASCRIPT
       - type: Label
         label: ADOBE
-      - type: Label
-        label: Label title
-        url: ''
     styles:
       self:
         justifyContent: center
