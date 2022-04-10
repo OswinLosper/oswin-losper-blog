@@ -57,7 +57,7 @@ sections:
         label: REACT
         url: ''
       - type: Label
-        label: Label title
+        label: GIT
         url: ''
     styles:
       self:
