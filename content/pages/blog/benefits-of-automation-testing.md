@@ -50,6 +50,7 @@ bottomSections:
     title: Recent Posts
     subtitle: Some Recent Posts
     recentCount: 3
+author: content/data/team/doris-soto.json
 ---
 Web applications today are getting more complex on a day to day basis. Stakeholders and clients have much bigger expectations of what web applications need to do these days. The days are gone having simple informative websites. Today a much more complex page with real time responses seems the new normal.
 
