@@ -48,6 +48,16 @@ sections:
 
       In my spare time I enjoy watching Rugby, Football, American Football,
       hanging out with friends and do some gaming.
+    actions:
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
   - type: TextSection
     colors: colors-f
     elementId: ''
