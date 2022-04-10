@@ -77,6 +77,7 @@ sections:
         borderWidth: 1
         padding:
           - pl-0
+          - pt-7
         margin:
           - ml-0
     title: Skills
