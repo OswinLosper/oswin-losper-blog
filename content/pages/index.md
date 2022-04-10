@@ -48,6 +48,28 @@ sections:
 
       In my spare time I enjoy watching Rugby, Football, American Football,
       hanging out with friends and do some gaming.
+  - type: TextSection
+    colors: colors-f
+    elementId: ''
+    variant: variant-a
+    title: The Section Title
+    subtitle: null
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
   - type: RecentPostsSection
     colors: colors-c
     elementId: ''
@@ -85,26 +107,4 @@ sections:
         justifyContent: center
     title: Recent Posts
     recentCount: 3
-  - type: TextSection
-    colors: colors-f
-    elementId: ''
-    variant: variant-a
-    title: The Section Title
-    subtitle: null
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
 ---
