@@ -65,9 +65,6 @@ sections:
       - type: Label
         label: WORDPRESS
         url: ''
-      - type: Label
-        label: Label title
-        url: ''
     styles:
       self:
         justifyContent: center
