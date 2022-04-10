@@ -60,7 +60,7 @@ sections:
         label: GIT
         url: ''
       - type: Label
-        label: User Experience Design
+        label: USER EXPER Experience Design
         url: ''
     styles:
       self:
