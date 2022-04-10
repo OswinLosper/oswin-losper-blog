@@ -63,7 +63,7 @@ sections:
         label: USER EXPERIENCE DESIGN
         url: ''
       - type: Label
-        label: Label title
+        label: WORDPRESS
         url: ''
     styles:
       self:
