@@ -11,15 +11,18 @@ sections:
       career change to testing.
 
 
-      Currently Im a full time Automation Tester at 20fifty. We building
-      solutions or thinking about the impact that Cloud Computing and AI has and
-      will continue to have on the world and society. 20fifty specialises in
-      modern application development and serverless cloud computing. Combining
-      human ingenuity + intelligent technology we consistently deliver
-      intelligent, innovative and scalable solutions that work.
+      Currently Im a full time Senior QA Automation Engineer at 20fifty. 
 
 
-      Before 20fifty I worked at Wyzetalk, a Company that specialising in
+      We building solutions or thinking about the impact that Cloud Computing
+      and AI has and will continue to have on the world and society. 20fifty
+      specialises in modern application development and serverless cloud
+      computing. Combining human ingenuity + intelligent technology we
+      consistently deliver intelligent, innovative and scalable solutions that
+      work.
+
+
+      Before 20fifty I worked at Wyzetalk, a Company that specialising in a
       digital employee solution that unleashes the potential of an entire
       workforce, before joining Wyzetalk, I worked for iPlatform, a company
       specialising in, insurance management software.
@@ -30,9 +33,7 @@ sections:
 
 
       In my spare time I enjoy watching Rugby, Football, American Football,
-      hanging out with friends and playing PlayStation. The saying less is more
-      is a key inﬂuence in my design and I utilise a very simplistic, minimalist
-      style that effectively portrays my clients needs and expectations.
+      hanging out with friends and do some gaming.
     media:
       type: ImageBlock
       url: /images/automation.png
