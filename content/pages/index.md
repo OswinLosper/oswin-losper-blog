@@ -39,11 +39,10 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     text: >
-
-
       Hey, name is Oswin Losper, most of time is being spend on doing automation
       testing using TestCafe or Cypress automation framework. Before this I did
-      testing on a small scal when I was working as senior designer & team lead.
+      testing on a small scale when I was working as a senior designer & team
+      lead.
 
 
       In my spare time I enjoy watching Rugby, Football, American Football,
