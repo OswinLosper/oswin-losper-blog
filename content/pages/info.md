@@ -59,6 +59,9 @@ sections:
       - type: Label
         label: GIT
         url: ''
+      - type: Label
+        label: Label title
+        url: ''
     styles:
       self:
         justifyContent: center
