@@ -66,7 +66,7 @@ sections:
         label: WORDPRESS
         url: ''
       - type: Label
-        label: Illustrator
+        label: ILLUSTRATOR
         url: ''
     styles:
       self:
