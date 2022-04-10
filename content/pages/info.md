@@ -54,7 +54,7 @@ sections:
       - type: Label
         label: ADOBE
       - type: Label
-        label: React
+        label: REACT
         url: ''
     styles:
       self:
