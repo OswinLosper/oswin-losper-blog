@@ -50,6 +50,7 @@ bottomSections:
     title: Recent Posts
     subtitle: Some Recent  Posts
     recentCount: 3
+author: content/data/team/doris-soto.json
 ---
 QA used to consist of two types of testing, namely, manual testing and automation testing.
 
