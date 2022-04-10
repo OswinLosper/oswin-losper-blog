@@ -16,7 +16,7 @@ excerpt: >-
   seems the new normal.
 featuredImage:
   type: ImageBlock
-  url: /images/benefits 2.jpg
+  url: /images/benefits-2-NEW.jpg
   altText: Benefits of Automation Testing
   caption: Benefits of Automation Testing
 bottomSections:
