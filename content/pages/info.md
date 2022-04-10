@@ -74,7 +74,7 @@ sections:
         width: wide
         height: auto
         borderStyle: solid
-        borderWidth: 1
+        borderWidth: 0
         padding:
           - pl-0
           - pt-10
