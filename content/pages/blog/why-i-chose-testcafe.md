@@ -11,7 +11,7 @@ date: '2021-09-28'
 excerpt: Choosing a framework to run automation test on can be tricky.
 featuredImage:
   type: ImageBlock
-  url: /images/whyTestCafe.jpg
+  url: /images/whyTestCafe-NEW.jpg
   altText: Why I Chose TestCafe
   caption: Why I Chose TestCafe
 bottomSections:
