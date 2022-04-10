@@ -52,7 +52,7 @@ sections:
       - type: Label
         label: JAVASCRIPT
       - type: Label
-        label: ADOBE
+        label: PHOTOSHOP
       - type: Label
         label: REACT
         url: ''
