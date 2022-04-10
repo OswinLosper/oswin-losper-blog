@@ -56,6 +56,9 @@ sections:
       - type: Label
         label: REACT
         url: ''
+      - type: Label
+        label: Label title
+        url: ''
     styles:
       self:
         justifyContent: center
