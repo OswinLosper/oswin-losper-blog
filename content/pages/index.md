@@ -88,7 +88,6 @@ sections:
   - type: LabelsSection
     colors: colors-f
     elementId: ''
-    title: Skills
     items:
       - type: Label
         label: 'WEB 1, 2, 3'
