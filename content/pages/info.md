@@ -54,6 +54,9 @@ sections:
       - type: Label
         label: PHOTOSHOP
       - type: Label
+        label: ILLUSTRATOR
+        url: ''
+      - type: Label
         label: REACT
         url: ''
       - type: Label
@@ -64,9 +67,6 @@ sections:
         url: ''
       - type: Label
         label: WORDPRESS
-        url: ''
-      - type: Label
-        label: ILLUSTRATOR
         url: ''
     styles:
       self:
