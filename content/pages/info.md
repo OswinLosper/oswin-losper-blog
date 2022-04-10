@@ -6,7 +6,33 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: "I started my career as a digital designer. \n\nFew years ago i made the decision to make a career change to testing.\n\nAt the moment I work as a full time Automation Tester at Wyzetalk.\n\na Company that specialising in digital\_employee solutions\_that unleashes the full potential of your entire workforce, before joining Wyzetalk, I worked for iPlatform, a company specialising in, insurance management software.\n\na Company that specialising in digital\_employee solutions\_that unleashes the full potential of your entire workforce, before joining Wyzetalk, I worked for iPlatform, a company specialising in, insurance management software.\n\nI also worked as a full time Senior Designer at bOnline Ltd, a UK based company, building small to medium sized business websites.\n"
+    text: >
+      I started my career as a digital designer. I made the decision to make a
+      career change to testing.
+
+
+      Currently Im a full time Automation Tester at 20fifty. We building
+      solutions or thinking about the impact that Cloud Computing and AI has and
+      will continue to have on the world and society. 20fifty specialises in
+      modern application development and serverless cloud computing. Combining
+      human ingenuity + intelligent technology we consistently deliver
+      intelligent, innovative and scalable solutions that work.
+
+
+      Before 20fifty I worked at Wyzetalk, a Company that specialising in
+      digital employee solution that unleashes the potential of an entire
+      workforce, before joining Wyzetalk, I worked for iPlatform, a company
+      specialising in, insurance management software.
+
+
+      I also worked as a full time Senior Designer at bOnline Ltd, a UK based
+      company, building small to medium sized business websites.
+
+
+      In my spare time I enjoy watching Rugby, Football, American Football,
+      hanging out with friends and playing PlayStation. The saying less is more
+      is a key inﬂuence in my design and I utilise a very simplistic, minimalist
+      style that effectively portrays my clients needs and expectations.
     media:
       type: ImageBlock
       url: /images/automation.png
