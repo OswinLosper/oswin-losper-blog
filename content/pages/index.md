@@ -38,26 +38,16 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-    text: >+
-      Currently Im a full time Automation Tester at 20fifty. 
+    text: >
 
 
+      Hey, name is Oswin Losper, most of time is being spend on doing automation
+      testing using TestCafe or Cypress automation framework. Before this I did
+      testing on a small scal when I was working as senior designer & team lead.
 
 
-      We building solutions or thinking about the impact that Cloud Computing
-      and AI has and will continue to have on the world and society.
-
-
-
-
-      Currently Im a full time Automation Tester at 20fifty. 
-
-
-
-
-      We building solutions or thinking about the impact that Cloud Computing
-      and AI has and will continue to have on the world and society.
-
+      In my spare time I enjoy watching Rugby, Football, American Football,
+      hanging out with friends and do some gaming.
   - type: RecentPostsSection
     colors: colors-c
     elementId: ''
