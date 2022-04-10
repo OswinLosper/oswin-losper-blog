@@ -50,7 +50,7 @@ sections:
       hanging out with friends and do some gaming.
     actions:
       - type: Button
-        label: Want to read more
+        label: WANT TO KNOW MORE?
         altText: ''
         url: /
         showIcon: false
