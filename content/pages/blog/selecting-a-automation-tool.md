@@ -13,7 +13,7 @@ excerpt: >-
   your team and company
 featuredImage:
   type: ImageBlock
-  url: /images/Selecting a tool.jpg
+  url: /images/Selecting-a-tool-NEW.jpg
   altText: Selecting A Automation Tool
   caption: Selecting A Automation Tool
 bottomSections:
