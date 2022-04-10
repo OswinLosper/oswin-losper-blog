@@ -57,7 +57,7 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
-    subtitle: Automation
+    subtitle: Senior QA Automation Engineer
   - type: RecentPostsSection
     colors: colors-c
     elementId: ''
