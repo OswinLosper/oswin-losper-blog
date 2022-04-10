@@ -77,7 +77,7 @@ sections:
         borderWidth: 1
         padding:
           - pl-0
-          - pt-16
+          - pt-10
           - pb-16
         margin:
           - ml-0
