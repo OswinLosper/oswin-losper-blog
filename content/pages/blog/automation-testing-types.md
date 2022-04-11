@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-metaTitle: null
+metaTitle: ' | Oswin Losper'
 metaDescription: null
 addTitleSuffix: true
 socialImage: null
