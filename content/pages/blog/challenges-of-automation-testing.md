@@ -15,7 +15,7 @@ excerpt: >-
   them.
 featuredImage:
   type: ImageBlock
-  url: /images/challenges-of-automation-3734fc0f.jpg
+  url: /images/challenges-of-automation.jpg
   altText: Post thumbnail image
   caption: ''
 bottomSections: []
