@@ -25,11 +25,11 @@ Because of this applications can become very complex with a lot of moving parts.
 
 Developers and tester needs to make sure that all of pieces of the puzzle of their applications works well together. Usually these complicated application is are being tested manually, but let's be honest we are humans after all and we do tired and this prone to mistakes. One way to get over this mistake is to implement automated end-to-end testing. Along side other automated tests like unit and API testing, end-to-end tests are essential part of the software development lifecycle.
 
-What is end-to-end testing
+#### What is end-to-end testing
 
 End-to-end testing, or E2E testing, is to make sure the  whole work flow on an entire application works from start to finish. Unlike other kinds of testing, end-to-end testing goes through the whole functionality, not just a certain part. Applications that interact with different services or require complex actions, this type of testing simulates real world scenarios and validates what your customers see.
 
-Benefits of end-to-end testing and Automation
+#### Benefits of end-to-end testing and Automation
 
 End-to-end tests provide a few benefits over other forms of testing. These tests will simulate a real word scenario that your customer will also experience under normal circumstances. Other tests do not simulate a real world scenario but only a section of the functionality that a user experiences. This kind of coverage helps to ensure that third-party services that aren't in our control work as intended. And thanks to the rise of low-code or code-less testing tools, the barrier to entry for creating end-to-end testing is much lower.
 
@@ -39,7 +39,7 @@ Because automated tests does simulate real world scenarios quicker then a human 
 
 This is just a few benefits of end-to-end automation. For more on this, few my blog post on Benefits of automation testing. 
 
-Challenges of end-to-end testing
+#### Challenges of end-to-end testing
 
 As saying the goes \*‘in the perfect world’, \*I think it would be save to say that we all want that, but we do live in the real world. With that everything that sounds good also does have its flaws, and its not different for automation testing either, as much as we want it to solve all our testing problems, it doesn’t come without it own sets of challenges. Its important that, when you do start your automation journey that you understand the challenges and have plans in place to fix them. 
 
@@ -47,7 +47,7 @@ I have worked with companies that told me, ’\*they want to automate everything
 
 Below are challenges most testers face with end-to-end testing and also a few tips on how to overcome each to make you turn into an E2E testing hero.
 
-Challenge #1: Flaky Tests
+##### Challenge #1: Flaky Tests
 
 End-to-end testing has an earned reputation for unstable, flaky tests that fail irregularly. It’s very frustrating, if you run your test suite and everything passes, only to see a test fail for no reason the next day but they passed yesterday and there were no code changes. 
 
