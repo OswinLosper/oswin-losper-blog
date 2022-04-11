@@ -131,23 +131,19 @@ sections:
 
           **Northlink College - 2009 - 2011**
 
-          *   2009 - 2012 Information  Technology
+          2009 - 2012 Information  Technology
 
-               Communication N5
+          Entrepreneurship & Business Management
 
-               Entrepreneurship & Business Management N5
+          Web Development & Programming (ASP.net, Visual Basic)
 
-               Web Development (CSS, HTML, ASP.net)
+          <!---->
 
-               Programming (Visual Basic)
+          Business Informatics
 
-               Business Informatics
+          Database
 
-               Database
-
-               Graphic Design (Adobe Suite, Corel)
-
-                Hardware & Networking
+          Hardware & Networking
 
         styles:
           self:
