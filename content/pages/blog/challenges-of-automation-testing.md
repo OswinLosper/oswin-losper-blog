@@ -15,7 +15,7 @@ excerpt: >-
   them.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/challenges-of-automation.jpg
   altText: Post thumbnail image
   caption: ''
 bottomSections: []
