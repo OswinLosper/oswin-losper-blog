@@ -50,4 +50,5 @@ postFeed:
 metaTitle: Blog Posts | Oswin Losper
 metaDescription: 'Automation Testing Blog Posts Oswin Losper '
 addTitleSuffix: true
+socialImage: /images/LOGO Black.png
 ---
