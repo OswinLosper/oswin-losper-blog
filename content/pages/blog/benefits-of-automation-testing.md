@@ -8,7 +8,7 @@ metaDescription: >-
   informative websites. Today a much more complex page with real time responses
   seems the new normal.
 addTitleSuffix: true
-socialImage: null
+socialImage: /images/benefits-2-NEW.jpg
 metaTags: []
 title: Benefits Of Automation Testing
 colors: colors-c
