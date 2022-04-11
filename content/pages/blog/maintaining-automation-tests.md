@@ -5,7 +5,7 @@ metaDescription: >-
   If you do maintain your automation tests, it will reduce the risks and
   difficulties for everyone involve on the project.
 addTitleSuffix: true
-socialImage: null
+socialImage: /images/maintaining-your-automation-tests2.jpg
 metaTags: []
 title: Maintaining Automation Tests
 colors: colors-d
