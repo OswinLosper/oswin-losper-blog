@@ -11,7 +11,7 @@ sections:
       career change to testing.
 
 
-      Currently Im a full time Senior QA Automation Engineer at 20fifty. 
+      Currently, Im a full time Senior QA Automation Engineer at 20fifty.
 
 
       We building solutions or thinking about the impact that Cloud Computing
@@ -22,13 +22,13 @@ sections:
       work.
 
 
-      Before 20fifty I worked at Wyzetalk, a Company that specialising in a
+      Before 20fifty I worked at Wyzetalk, a company that specialising in a
       digital employee solution that unleashes the potential of an entire
       workforce, before joining Wyzetalk, I worked for iPlatform, a company
       specialising in, insurance management software.
 
 
-      I also worked as a full time Senior Designer at bOnline Ltd, a UK based
+      I also worked as a full time senior designer at bOnline Ltd, a UK based
       company, building small to medium sized business websites.
 
 
