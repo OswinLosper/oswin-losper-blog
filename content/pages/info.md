@@ -179,4 +179,5 @@ sections:
 metaTitle: About Oswin Losper
 metaDescription: Im a full time Senior QA Automation Engineer at 20fifty.
 addTitleSuffix: true
+socialImage: /images/LOGO Black.png
 ---
