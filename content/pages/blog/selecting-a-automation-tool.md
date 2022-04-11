@@ -7,7 +7,7 @@ metaDescription: >-
   sometimes the choices we make are not necessarily the right ones but the
   popular ones.. For automation tools it's no different.
 addTitleSuffix: true
-socialImage: null
+socialImage: /images/Selecting a tool.jpg
 metaTags: []
 title: Selecting A Automation Tool
 colors: colors-a
