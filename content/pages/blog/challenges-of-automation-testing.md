@@ -12,8 +12,10 @@ backgroundImage:
   url: /images/bg2.jpg
 date: '2022-04-12'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Because of this applications can become very complex with a lot of moving
+  parts. With this, testing has also become much more complex, with multiple
+  pieces of functionality working in different and stores in different
+  locations.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
