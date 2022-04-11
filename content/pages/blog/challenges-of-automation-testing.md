@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-metaTitle: null
+metaTitle: Challenges Of Automation Testing | Oswin Losper
 metaDescription: >-
   Challenges testers face with end-to-end testing and tips on how to overcome
   them.
