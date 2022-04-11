@@ -97,4 +97,5 @@ sections:
     recentCount: 3
 metaTitle: 'Oswin Losper '
 metaDescription: Home
+socialImage: /images/LOGO Black.png
 ---
