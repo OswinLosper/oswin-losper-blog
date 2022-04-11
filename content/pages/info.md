@@ -133,6 +133,22 @@ sections:
 
           *   2009 - 2012 Information  Technology
 
+               Communication N5
+
+               Entrepreneurship & Business Management N5
+
+               Web Development (CSS, HTML, ASP.net)
+
+               Programming (Visual Basic)
+
+               Business Informatics
+
+               Database
+
+               Graphic Design (Adobe Suite, Corel)
+
+                Hardware & Networking
+
         styles:
           self:
             textAlign: left
