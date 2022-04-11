@@ -95,4 +95,5 @@ sections:
         justifyContent: center
     title: Recent Posts
     recentCount: 3
+metaTitle: 'Oswin Losper '
 ---
