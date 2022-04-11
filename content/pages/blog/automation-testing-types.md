@@ -5,7 +5,7 @@ metaDescription: >-
   In the software testing world, there are two types of testing — manual and
   automated testing.
 addTitleSuffix: true
-socialImage: null
+socialImage: /images/automation-testing-types.png
 metaTags: []
 title: Automation Testing Types
 colors: colors-a
