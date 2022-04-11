@@ -1,7 +1,9 @@
 ---
 layout: PostLayout
 metaTitle: Maintaining Automation Tests | Oswin Losper
-metaDescription: null
+metaDescription: >-
+  If you do maintain your automation tests, it will reduce the risks and
+  difficulties for everyone involve on the project.
 addTitleSuffix: true
 socialImage: null
 metaTags: []
