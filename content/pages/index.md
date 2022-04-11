@@ -98,4 +98,5 @@ sections:
 metaTitle: 'Oswin Losper '
 metaDescription: Home
 socialImage: /images/LOGO Black.png
+addTitleSuffix: true
 ---
