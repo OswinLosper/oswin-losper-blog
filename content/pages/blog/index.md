@@ -48,5 +48,5 @@ postFeed:
   variant: variant-d
   actions: []
 metaTitle: Blog Posts | Oswin Losper
-metaDescription: 'Blog Posts | Oswin Losper '
+metaDescription: 'Blog Posts  Oswin Losper '
 ---
