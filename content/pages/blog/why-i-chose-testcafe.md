@@ -1,7 +1,9 @@
 ---
 layout: PostLayout
 metaTitle: Why I Chose TestCafe | Oswin Losper
-metaDescription: null
+metaDescription: >
+  Testcafe is an open-sources project that is owned by DevExpress and its free
+  (Let's be honest, business would like that)
 addTitleSuffix: true
 socialImage: /images/whyTestCafe-NEW.jpg
 metaTags: []
