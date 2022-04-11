@@ -129,7 +129,9 @@ sections:
 
           *   Concordia Secondary School
 
-          **Northlink College - 2009 - 2011 - Information  Technology**
+          **Northlink College - 2009 - 2011**
+
+          *   **Information  Technology**
 
           Entrepreneurship & Business Management
 
