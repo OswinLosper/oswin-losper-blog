@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-metaTitle: null
+metaTitle: Becoming An Automation Tester | Oswin Losper
 metaDescription: null
 addTitleSuffix: true
 socialImage: null
