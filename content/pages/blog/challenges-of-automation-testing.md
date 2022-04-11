@@ -6,7 +6,7 @@ addTitleSuffix: true
 socialImage: null
 metaTags: []
 title: Challenges of Automation Testing
-colors: colors-a
+colors: colors-d
 backgroundImage:
   type: BackgroundImage
   url: /images/bg2.jpg
