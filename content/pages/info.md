@@ -124,14 +124,12 @@ sections:
               - pr-0
         title: Experience
       - type: FeaturedItem
-        text: |+
+        text: |
           **Matric  - 2008**
 
           *   Concordia Secondary School
 
-          **Northlink College - 2009 - 2011**
-
-          2009 - 2012 Information  Technology
+          **Northlink College - 2009 - 2011 - Information  Technology**
 
           Entrepreneurship & Business Management
 
@@ -144,7 +142,6 @@ sections:
           Database
 
           Hardware & Networking
-
         styles:
           self:
             textAlign: left
