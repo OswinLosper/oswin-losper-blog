@@ -11,8 +11,8 @@ title: Challenges of Automation Testing
 colors: colors-d
 date: '2022-04-12'
 excerpt: >-
-  Challenges testers face with end-to-end testing and tips on how to overcome
-  them.
+  Challenges testers face daily with end-to-end testing and tips on how to
+  overcome them.
 featuredImage:
   type: ImageBlock
   url: /images/challenges-of-automation.jpg
