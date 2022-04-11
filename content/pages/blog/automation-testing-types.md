@@ -5,7 +5,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: Automation Testing Types | Oswin Losper
+title: Automation Testing Types
 colors: colors-a
 date: '2021-10-29'
 excerpt: >-
