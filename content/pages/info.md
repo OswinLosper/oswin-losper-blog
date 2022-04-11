@@ -177,4 +177,5 @@ sections:
         textAlign: left
     title: 'Experience & Education '
 metaTitle: About Oswin Losper
+metaDescription: Im a full time Senior QA Automation Engineer at 20fifty.
 ---
