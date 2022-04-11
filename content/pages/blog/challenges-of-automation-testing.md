@@ -55,7 +55,7 @@ End-to-end testing doest consist of a lot of moving parts and needs to validate 
 
 The main challenge of tackling an unstable test suite is to find a solution. You can take a few steps to minimise inconsistent tests. Keep in mind there is ‘one-size-fits all’ quick fix for this.
 
-**Keep track of test failures: **On most automated test suites with flaky tests, you’ll often see the same test cases fail. The tests will give you ideas or clues that can help you iron out the instabilities in the application or the test suite.
+\*\*Keep track of test failures: \*\*On most automated test suites with flaky tests, you’ll often see the same test cases fail. The tests will give you ideas or clues that can help you iron out the instabilities in the application or the test suite.
 
 **Make the most of your testing tools:** Most end-to-end tools has build in features that can re-run failing tests. For instance, if you run your test against a live API, you will most probably get time-outs, and you don't want these to be marked as failed. For example, TestCafe has a build in feature called ***‘quarantine mode’,*** if a test fails it will run the test again and if it passes on the second attempt it will mark it pass or unstable.
 
@@ -79,7 +79,7 @@ Speeding up your tests can reply on different factors, your architecture of your
 
 One very important aspect of end-to-end testing, is that businesses under estimate the amount of maintenance goes into end-to-end testing. Lot of businesses think, that once you are done with an application feature the end-to-end testing doesn’t need maintenance, very easy mistake to make but its wrong.
 
-As you add more testcases to your test suite, over time your team may will begin to struggle to keep the test under control. It will become very difficult to add new test cases without effecting existing ones.\* \*
+As you add more testcases to your test suite, over time your team may will begin to struggle to keep the test under control. It will become very difficult to add new test cases without effecting existing ones.
 
 A mistake many testing teams make is to automate everything and not thinking about the management of the tests down the road. The focus to automate everything, this mindset leads them down a road where the tests become more detrimental than helpful. To avoid falling into this trap, here a few thing to consider before you begin your end-to-end tests.
 
@@ -101,7 +101,7 @@ With some early preparation work you can begin to show the benefits of what you 
 
 **Make your results visible to the teams:** Show the entire team that your end-to-end test suite is working by displaying test run results using tools like Slack, emails, dashboards or any other place the team can see them quickly and effortlessly.
 
-**Make your results visible to the teams: **Almost all testing tools can generate a well organised report that show how your tests performs.
+\*\*Make your results visible to the teams: \*\*Almost all testing tools can generate a well organised report that show how your tests performs.
 
 **Keep track of how your tests improve your project:** Come up with a list of valuable metrics you can measure for the project, like defects found before a release, development velocity and so on. Once you have a list of metrics, take a baseline measurement and see how they improve over time as your end-to-end test suite expands.
 
