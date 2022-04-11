@@ -96,4 +96,5 @@ sections:
     title: Recent Posts
     recentCount: 3
 metaTitle: 'Oswin Losper '
+metaDescription: Home
 ---
