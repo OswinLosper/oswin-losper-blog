@@ -47,4 +47,5 @@ postFeed:
   showAuthor: true
   variant: variant-d
   actions: []
+metaTitle: Blog Posts | Oswin Losper
 ---
