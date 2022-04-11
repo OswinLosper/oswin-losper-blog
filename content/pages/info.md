@@ -36,7 +36,7 @@ sections:
       hanging out with friends and do some gaming.
     media:
       type: ImageBlock
-      url: /images/automationbw.jpg
+      url: /images/automationPIC-7d4be1e3.png
       altText: Oswin Losper
     styles:
       self:
