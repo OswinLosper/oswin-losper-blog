@@ -7,9 +7,6 @@ socialImage: null
 metaTags: []
 title: Challenges of Automation Testing
 colors: colors-d
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg2.jpg
 date: '2022-04-12'
 excerpt: >-
   Challenges testers face with end-to-end testing and tips on how to overcome
