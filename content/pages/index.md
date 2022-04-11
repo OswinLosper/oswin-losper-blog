@@ -96,7 +96,7 @@ sections:
     title: Recent Posts
     recentCount: 3
 metaTitle: 'Oswin Losper '
-metaDescription: O
+metaDescription: 'Oswin Losper '
 socialImage: /images/LOGO Black.png
 addTitleSuffix: true
 ---
