@@ -95,7 +95,7 @@ sections:
         justifyContent: center
     title: Recent Posts
     recentCount: 3
-metaTitle: 'Oswin Losper '
+metaTitle: Oswin Losper | QA Engineer
 metaDescription: Oswin Losper | QA Engineer
 socialImage: /images/LOGO Black.png
 addTitleSuffix: true
