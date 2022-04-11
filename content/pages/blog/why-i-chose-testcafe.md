@@ -3,7 +3,7 @@ layout: PostLayout
 metaTitle: null
 metaDescription: null
 addTitleSuffix: true
-socialImage: null
+socialImage: /images/whyTestCafe-NEW.jpg
 metaTags: []
 title: Why I Chose TestCafe
 colors: colors-a
