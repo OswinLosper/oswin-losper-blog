@@ -48,5 +48,5 @@ postFeed:
   variant: variant-d
   actions: []
 metaTitle: Blog Posts | Oswin Losper
-metaDescription: 'Automation Blog Posts Oswin Losper '
+metaDescription: 'Automation Testing Blog Posts Oswin Losper '
 ---
