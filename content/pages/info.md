@@ -137,11 +137,7 @@ sections:
 
           Web Development & Programming (ASP.net, Visual Basic)
 
-          <!---->
-
           Business Informatics
-
-          Database
 
           Hardware & Networking
         styles:
