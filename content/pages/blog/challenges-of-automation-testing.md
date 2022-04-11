@@ -11,11 +11,9 @@ backgroundImage:
   type: BackgroundImage
   url: /images/bg2.jpg
 date: '2022-04-12'
-excerpt: >-
-  Because of this applications can become very complex with a lot of moving
-  parts. With this, testing has also become much more complex, with multiple
-  pieces of functionality working in different and stores in different
-  locations.
+excerpt: >
+  five challenges most testers face with end-to-end testing and also a few tips
+  on how to overcome each to make you turn into an E2E testing hero.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
