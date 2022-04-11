@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-metaTitle: null
+metaTitle: Why I Chose TestCafe | Oswin Losper
 metaDescription: null
 addTitleSuffix: true
 socialImage: /images/whyTestCafe-NEW.jpg
