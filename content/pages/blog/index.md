@@ -49,4 +49,5 @@ postFeed:
   actions: []
 metaTitle: Blog Posts | Oswin Losper
 metaDescription: 'Automation Testing Blog Posts Oswin Losper '
+addTitleSuffix: true
 ---
