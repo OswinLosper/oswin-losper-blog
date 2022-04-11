@@ -13,7 +13,7 @@ backgroundImage:
 date: '2022-04-12'
 excerpt: >-
   Challenges testers face with end-to-end testing and tips on how to overcome
-  them, to make you turn into an e2e testing hero.
+  them, and make you turn into an e2e testing hero.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
