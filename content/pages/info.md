@@ -176,5 +176,5 @@ sections:
       subtitle:
         textAlign: left
     title: 'Experience & Education '
-metaTitle: Oswin Losper
+metaTitle: About Oswin Losper
 ---
