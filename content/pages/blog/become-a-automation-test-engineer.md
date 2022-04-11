@@ -1,7 +1,7 @@
 ---
 layout: PostLayout
 metaTitle: Becoming An Automation Tester | Oswin Losper
-metaDescription: >
+metaDescription: >-
   QA used to consist of two types of testing, namely, manual testing and
   automation testing. Manual testers main task was to do regression testing
   while automation tester was only focussed on writing code and scripts.
