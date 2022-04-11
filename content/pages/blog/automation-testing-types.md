@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-metaTitle: ' | Oswin Losper'
+metaTitle: Automation Testing Types | Oswin Losper
 metaDescription: null
 addTitleSuffix: true
 socialImage: null
