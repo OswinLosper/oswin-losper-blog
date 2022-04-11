@@ -21,10 +21,6 @@ featuredImage:
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
   altText: Post thumbnail image
   caption: ''
-media:
-  type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Post image
 bottomSections: []
 author: content/data/team/doris-soto.json
 ---
