@@ -6,7 +6,7 @@ metaDescription: >-
   automation testing. Manual testers main task was to do regression testing
   while automation tester was only focussed on writing code and scripts.
 addTitleSuffix: true
-socialImage: null
+socialImage: /images/no-text.png
 metaTags: []
 title: Becoming An Automation Tester
 colors: colors-a
