@@ -1,7 +1,9 @@
 ---
 layout: PostLayout
 metaTitle: null
-metaDescription: null
+metaDescription: >-
+  Challenges testers face with end-to-end testing and tips on how to overcome
+  them.
 addTitleSuffix: true
 socialImage: null
 metaTags: []
