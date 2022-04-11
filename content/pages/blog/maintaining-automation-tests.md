@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-metaTitle: 'Maintaining Automation Tests '
+metaTitle: Maintaining Automation Tests | Oswin Losper
 metaDescription: null
 addTitleSuffix: true
 socialImage: null
