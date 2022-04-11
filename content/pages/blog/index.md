@@ -1,6 +1,6 @@
 ---
 layout: PostFeedLayout
-title: 'Blog Posts '
+title: Blog Posts | Oswin Losper
 colors: colors-d
 numOfPostsPerPage: 5
 styles:
