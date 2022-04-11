@@ -1,7 +1,9 @@
 ---
 layout: PostLayout
 metaTitle: Automation Testing Types | Oswin Losper
-metaDescription: null
+metaDescription: >-
+  In the software testing world, there are two types of testing — manual and
+  automated testing.
 addTitleSuffix: true
 socialImage: null
 metaTags: []
