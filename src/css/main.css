@@ -182,7 +182,7 @@
         z-index: 1;
     }
     .sb-component-link-fill:before {
-         @apply bg-dark;
+        
     }
     .sb-component-social-fill:before,
     .sb-header-logo:before {
