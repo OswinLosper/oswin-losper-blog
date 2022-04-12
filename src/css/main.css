@@ -361,7 +361,7 @@
             @apply text-complementary;
         }
         .sb-header-overlay {
-           @apply bg-dark;ß
+           @apply bg-dark;
         }
     }
     .colors-f {
