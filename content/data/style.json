@@ -48,7 +48,7 @@
     "dark": "#ffffff",
     "onDark": "#000000",
     "primary": "#fafafa",
-    "onPrimary": "#5e5e5e",
+    "onPrimary": "#000000",
     "secondary": "#ffffff",
     "onSecondary": "#5e5e5e",
     "complementary": "#000000",
