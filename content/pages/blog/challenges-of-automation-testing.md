@@ -16,7 +16,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/challenges-of-automation.jpg
-  altText: Post thumbnail image
+  altText: Challenges Of Automation Testing
   caption: ''
 bottomSections: []
 author: content/data/team/doris-soto.json
