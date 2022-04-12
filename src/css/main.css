@@ -173,9 +173,7 @@
     }
 
     /* Header links hover */
-    .sb-component-link-fill {
-       
-    }
+    .sb-component-link-fill,
     .sb-component-social-fill,
     .sb-header-logo {
         @apply relative overflow-hidden;
