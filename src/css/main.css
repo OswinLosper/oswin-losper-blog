@@ -194,7 +194,7 @@
     .sb-component-link-fill:hover:before,
     .sb-component-social-fill:hover:before,
     .sb-header-logo:hover:before {
-        @apply opacity-10;
+        @apply opacity-50;
         transform: translate3d(0, 0, 0);
         transition-timing-function: cubic-bezier(0.2, 1, 0.3, 1);
     }
