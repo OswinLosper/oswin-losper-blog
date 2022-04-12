@@ -173,7 +173,9 @@
     }
 
     /* Header links hover */
-    .sb-component-link-fill,
+    .sb-component-link-fill {
+        @apply bg-dark;
+    }
     .sb-component-social-fill,
     .sb-header-logo {
         @apply relative overflow-hidden;
