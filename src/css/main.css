@@ -173,6 +173,10 @@
         transition: opacity 0.25s ease-in-out;
     }
 
+      .sb-component-link-fill {
+        background-color: red;
+    }
+
     /* Header links hover */
     .sb-component-link-fill {
         background-color: red;
