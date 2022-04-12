@@ -17,7 +17,7 @@ featuredImage:
   type: ImageBlock
   url: /images/challenges-of-automation.jpg
   altText: Challenges Of Automation Testing
-  caption: ''
+  caption: Challenges Of Automation Testing
 bottomSections: []
 author: content/data/team/doris-soto.json
 ---
