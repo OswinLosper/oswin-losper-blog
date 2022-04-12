@@ -5,7 +5,7 @@ metaDescription: >-
   Challenges testers face with end-to-end testing and tips on how to overcome
   them.
 addTitleSuffix: true
-socialImage: null
+socialImage: /images/challenges-of-automation.jpg
 metaTags: []
 title: Challenges of Automation Testing
 colors: colors-d
