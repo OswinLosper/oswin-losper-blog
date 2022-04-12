@@ -365,7 +365,7 @@
         }
     }
     .colors-f {
-        /* @apply bg-transparent; */
+        @apply bg-transparent;
          /* @apply bg-dark; */
     }
 }
