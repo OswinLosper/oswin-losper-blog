@@ -51,7 +51,7 @@
     "onPrimary": "#5e5e5e",
     "secondary": "#ffffff",
     "onSecondary": "#5e5e5e",
-    "complementary": "#0c30e3",
+    "complementary": "#000000",
     "onComplementary": "#8aa54b",
     "buttonPrimary": {
         "weight": "normal",
