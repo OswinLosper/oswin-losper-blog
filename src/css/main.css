@@ -174,7 +174,7 @@
     }
 
       .sb-component-header {
-         @apply bg-transparent;
+         @apply bg-dark;
     }
 
     /* Header links hover */
