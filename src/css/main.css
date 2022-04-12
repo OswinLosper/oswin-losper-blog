@@ -167,7 +167,7 @@
         @apply text-lg inline-flex items-center justify-center no-underline relative;
     }
     .sb-component-social:not(.sb-component-social-fill) {
-        @apply opacity-100 hover:opacity-80;
+        @apply opacity-100 hover:opacity-10;
         transition: opacity 0.25s ease-in-out;
     }
 
