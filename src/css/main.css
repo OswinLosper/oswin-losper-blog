@@ -177,6 +177,7 @@
     .sb-component-social-fill,
     .sb-header-logo {
         @apply relative overflow-hidden;
+        @apply opacity-100 hover:opacity-10;
         transition: color 0.25s ease-in-out;
         transition-timing-function: cubic-bezier(0.2, 1, 0.3, 1);
         z-index: 1;
