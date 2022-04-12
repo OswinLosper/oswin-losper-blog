@@ -210,7 +210,7 @@
     .sb-input,
     .sb-select,
     .sb-textarea {
-        @apply bg-transparent border border-current p-3 w-full focus:outline-none sm:text-xl;
+        @apply bg-dark border border-current p-3 w-full focus:outline-none sm:text-xl;
     }
     option {
         color: initial;
