@@ -139,7 +139,7 @@
     .sb-component-button {
         @apply text-lg border-2 border-current inline-flex items-center justify-center no-underline relative text-center transition duration-200 ease-in;
         box-shadow: none;
-        background-color: pink;
+        
     }
     .sb-component-button:not(.sb-component-button-no-hover):hover,
     .group:hover .sb-component-button:not(.sb-component-button-no-hover) {
