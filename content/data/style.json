@@ -50,7 +50,7 @@
     "primary": "#fafafa",
     "onPrimary": "#000000",
     "secondary": "#ffffff",
-    "onSecondary": "#111",
+    "onSecondary": "#111111",
     "complementary": "#565862",
     "onComplementary": "#8aa54b",
     "buttonPrimary": {
