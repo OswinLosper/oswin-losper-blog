@@ -298,7 +298,7 @@
             @apply text-light;
         }
         .sb-header-overlay {
-            @apply bg-dark;
+            @apply bg-light;
         }
     }
     .colors-c {
