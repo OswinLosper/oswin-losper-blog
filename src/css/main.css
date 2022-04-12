@@ -152,6 +152,7 @@
     /* Links */
     .sb-component-link {
         @apply text-lg inline-flex items-center justify-center no-underline relative;
+        @apply opacity-100 hover:opacity-10;
     }
     .sb-component-link:not(.sb-component-link-fill) {
         box-shadow: 0 1px 0 0 currentColor;
