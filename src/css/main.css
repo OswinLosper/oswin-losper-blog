@@ -340,7 +340,7 @@
             @apply text-secondary;
         }
         .sb-header-overlay {
-            @apply bg-secondary;
+            @apply bg-dark;
         }
     }
     .colors-e {
