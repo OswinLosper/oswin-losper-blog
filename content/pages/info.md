@@ -1,5 +1,5 @@
 ---
-title: About | Oswin Losper
+title: About
 layout: PageLayout
 colors: colors-d
 sections:
