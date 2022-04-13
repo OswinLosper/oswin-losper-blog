@@ -39,7 +39,7 @@ Some teams perform these complex tests manually, going through each step to cove
 
 Because automated tests does simulate real world scenarios quicker then a human would perform these steps, the entire team can get quicker feedback if something went wrong in there application.
 
-This is just a few benefits of end-to-end automation. For more on this, few my blog post on [benefits of automation testing](https://oswinlosper.co.za/posts/benefits-of-automation-testing/). 
+This is just a few benefits of end-to-end automation. For more on this, few my blog post on [benefits of automation testing](https://www.oswinlosper.co.za/blog/benefits-of-automation-testing/). 
 
 #### Challenges of end-to-end testing
 
