@@ -42,6 +42,14 @@
                 "label": "GitHub",
                 "url": "https://github.com/OswinLosper?tab=repositories",
                 "icon": "github"
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "/",
+                "icon": "facebook",
+                "elementId": ""
             }
         ],
         "styles": {
