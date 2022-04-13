@@ -18,7 +18,40 @@ featuredImage:
   url: /images/challenges-of-automation.jpg
   altText: Challenges Of Automation Testing
   caption: Challenges Of Automation Testing
-bottomSections: []
+bottomSections:
+  - type: RecentPostsSection
+    colors: colors-f
+    elementId: ''
+    showDate: true
+    showAuthor: false
+    showExcerpt: true
+    showFeaturedImage: false
+    showReadMoreLink: true
+    variant: variant-b
+    actions:
+      - label: See all posts
+        altText: See all posts
+        url: /blog
+        type: Link
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: center
+    title: null
+    subtitle: Posts
+    recentCount: 3
 author: content/data/team/doris-soto.json
 ---
 I think its safe to say that in todays world, client and stakeholders expect software application they use everyday to provide them with rich experiences. The days of simple applications with a few form fields and store basic data are gone. We live in a world where we have real-time applications with nice designs and multiple services on the cloud.
