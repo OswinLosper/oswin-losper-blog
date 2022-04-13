@@ -57,7 +57,7 @@ End-to-end testing does consist of a lot of moving parts and needs to validate d
 
 The main challenge of tackling an unstable test suite is to find a solution. You can take a few steps to minimise inconsistent tests. Keep in mind there is no *‘one-size-fits all’* quick fix for this.
 
-\*\*Keep track of test failures: \*\*On most automated test suites with flaky tests, you’ll often see the same test cases fail. The tests will give you ideas or clues that can help you iron out the instabilities in the application or the test suite.
+**Keep track of test failures:**  On most automated test suites with flaky tests, you’ll often see the same test cases fail. The tests will give you ideas or clues that can help you iron out the instabilities in the application or the test suite.
 
 **Make the most of your testing tools:** Most end-to-end tools has build in features that can re-run failing tests. For instance, if you run your test against a live API, you will most probably get time-outs, and you don't want these to be marked as failed. For example, TestCafe has a build in feature called ***‘quarantine mode’,*** if a test fails it will run the test again and if it passes on the second attempt it will mark it pass or unstable.
 
