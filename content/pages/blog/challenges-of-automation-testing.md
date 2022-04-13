@@ -21,7 +21,7 @@ featuredImage:
 bottomSections: []
 author: content/data/team/doris-soto.json
 ---
-I think its safe to say that in todays world, client and stakeholders expect software application they use everyday to provide them with rich experiences. The days of simple applications with a few form fields and store basic data are gone. We live in a world where we have real-time applications with nice designs and multiple services on the cloud
+I think its safe to say that in todays world, client and stakeholders expect software application they use everyday to provide them with rich experiences. The days of simple applications with a few form fields and store basic data are gone. We live in a world where we have real-time applications with nice designs and multiple services on the cloud.
 
 Because of this applications can become very complex with a lot of moving parts. With this, testing has also become much more complex, with multiple pieces of functionality working  differently and stores information in different locations.
 
@@ -43,7 +43,7 @@ This is just a few benefits of end-to-end automation. For more on this, few my b
 
 #### Challenges of end-to-end testing
 
-As saying the goes *'in the perfect world'*, I think we all want that, but we do live in the real world. With that everything that sounds good also does have its flaws, and its no different for automation testing either, as much as we want it to solve all our testing problems, it doesn’t come with its own sets of challenges. Its important that, when you do start your automation journey that you understand the challenges and have plans in place to fix them. 
+As saying the goes *'in the perfect world'*, I think we all want that, but we do live in the real world. With that everything that sounds good also does have its flaws, and it's no different for automation testing either, as much as we want it to solve all our testing problems, it doesn’t come with its own sets of challenges. Its important that, when you do start your automation journey that you understand the challenges and have plans in place to fix them. 
 
 I have worked with companies that told me, ’they want to automate everything’ without thinking of the challenges that lays ahead and if these challenges are not planned for, your automation dream wil soon turn into a nightmare. 
 
