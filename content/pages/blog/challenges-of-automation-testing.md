@@ -20,7 +20,7 @@ featuredImage:
   caption: Challenges Of Automation Testing
 bottomSections:
   - type: RecentPostsSection
-    colors: colors-f
+    colors: colors-c
     elementId: ''
     showDate: true
     showAuthor: true
