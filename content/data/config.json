@@ -45,7 +45,7 @@
             },
             {
                 "type": "Social",
-                "altText": "Dev",
+                "altText": "Dev Blog",
                 "label": "Dev",
                 "url": "https://dev.to/oswinlosper",
                 "icon": "devTo"
