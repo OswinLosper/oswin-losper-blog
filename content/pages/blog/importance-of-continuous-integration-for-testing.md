@@ -10,7 +10,7 @@ colors: colors-a
 date: '2022-04-22'
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/continuous-integration.jpg
   altText: Post thumbnail image
   caption: ''
 media:
