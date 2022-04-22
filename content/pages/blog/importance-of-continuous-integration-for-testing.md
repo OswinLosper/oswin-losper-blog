@@ -8,7 +8,7 @@ metaTags:
   - type: MetaTag
     property: 'og:title'
     content: ''
-title: Importance of Continuous Integration
+title: Importance of CI
 colors: colors-a
 date: '2022-04-22'
 featuredImage:
