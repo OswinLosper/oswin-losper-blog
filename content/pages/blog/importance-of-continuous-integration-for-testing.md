@@ -4,7 +4,10 @@ metaTitle: Importance Of Continuous Integration
 metaDescription: Importance Of Continuous Integration
 addTitleSuffix: true
 socialImage: /images/continuous-integration.jpg
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:title'
+    content: ''
 title: Importance of Continuous Integration
 colors: colors-a
 date: '2022-04-22'
