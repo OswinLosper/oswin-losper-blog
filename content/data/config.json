@@ -95,7 +95,7 @@
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
-                "elementId": ""
+                "elementId": "linked-in"
             },
             {
                 "type": "Link",
