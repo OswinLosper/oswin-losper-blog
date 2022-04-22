@@ -11,7 +11,7 @@ date: '2022-04-22'
 featuredImage:
   type: ImageBlock
   url: /images/continuous-integration.jpg
-  altText: Continuous Integration For Testing
+  altText: Continuous Integration
   caption: ''
 media:
   type: ImageBlock
