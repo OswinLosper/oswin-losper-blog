@@ -99,7 +99,7 @@
             },
             {
                 "type": "Link",
-                "label": "DEV",
+                "label": "dev",
                 "altText": "",
                 "url": "https://www.linkedin.com/in/oswin-losper-21520330/",
                 "showIcon": false,
