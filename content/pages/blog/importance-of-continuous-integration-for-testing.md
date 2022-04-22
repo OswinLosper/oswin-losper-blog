@@ -8,7 +8,7 @@ metaTags:
   - type: MetaTag
     property: 'og:title'
     content: ''
-title: The Importance of CI for you project
+title: The Importance of CI for your project
 colors: colors-a
 date: '2022-04-22'
 featuredImage:
