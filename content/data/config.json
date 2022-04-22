@@ -109,7 +109,7 @@
             },
             {
                 "type": "Link",
-                "label": "DEV",
+                "label": "MEDIUM",
                 "altText": "",
                 "url": "https://dev.to/oswinlosper/",
                 "showIcon": false,
