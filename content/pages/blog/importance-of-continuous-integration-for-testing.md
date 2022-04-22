@@ -54,7 +54,7 @@ excerpt: >-
 ---
 In our ever changing world we live in today, when take on a new project, a new hobby or just even when you enjoy something, you would want to get the most out of it. It’s the same with automation testing. If you do have an automation suite in your project and you don't have continuous integration (CI) on it, then you not getting the most value out of your automation testing.
 
-### Learn why it is important for you and your business to implement CI in your project.
+#### Learn why it is important for you and your business to implement CI in your project.
 
 A lot of business these days are embracing automation testing, and with good reason, I might add. Automation testing help developers and testers to be more effective during the software development process. With automation, teams don’t have to spend their days going through testcases manually, this can lead to quicker turn around times and also help catching issues quickly before the project reach the customers.
 
