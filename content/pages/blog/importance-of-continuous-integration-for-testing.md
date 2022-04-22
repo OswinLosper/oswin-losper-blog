@@ -5,7 +5,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: Importance of Continuous Integration For Testing
+title: Importance of Continuous Integration
 colors: colors-a
 date: '2022-04-22'
 featuredImage:
