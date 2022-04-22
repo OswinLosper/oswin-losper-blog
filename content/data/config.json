@@ -49,6 +49,13 @@
                 "label": "Dev",
                 "url": "https://dev.to/oswinlosper",
                 "icon": "devTo"
+            },
+            {
+                "type": "Social",
+                "altText": "Dev",
+                "label": "Dev",
+                "url": "https://dev.to/oswinlosper",
+                "icon": "devTo"
             }
         ],
         "styles": {
