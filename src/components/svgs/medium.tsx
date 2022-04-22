@@ -1,6 +1,6 @@
 import * as React from 'react';
 
-export default function DevTo({ className }) {
+export default function Medium({ className }) {
     return (
         <svg className={className} viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
 
