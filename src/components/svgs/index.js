@@ -34,8 +34,7 @@ export const iconMap = {
     cart: Cart,
     chevronLeft: ChevronLeft,
     chevronRight: ChevronRight,
-    devTo: ChevronRight,
-
+    devTo: DevTo,
     facebook: Facebook,
     github: GitHub,
     googlePlay: GooglePlay,
