@@ -106,6 +106,16 @@
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "elementId": "dev"
+            },
+            {
+                "type": "Link",
+                "label": "DEV",
+                "altText": "",
+                "url": "https://dev.to/oswinlosper/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": "dev"
             }
         ],
         "copyrightText": "© Oswin Losper 2022. \nContact me for more information oswinlosper\\[@]gmail.com\n",
