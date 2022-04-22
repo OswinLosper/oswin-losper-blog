@@ -96,8 +96,7 @@
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "elementId": ""
-            }
-            ,
+            },
             {
                 "type": "Link",
                 "label": "LINKED IN",
