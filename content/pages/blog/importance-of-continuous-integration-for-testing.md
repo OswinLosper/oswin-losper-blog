@@ -12,7 +12,7 @@ featuredImage:
   type: ImageBlock
   url: /images/continuous-integration.jpg
   altText: Continuous Integration
-  caption: ''
+  caption: Continuous Integration For Testing
 media:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
