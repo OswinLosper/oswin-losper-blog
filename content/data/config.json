@@ -97,6 +97,17 @@
                 "iconPosition": "right",
                 "elementId": ""
             }
+            ,
+            {
+                "type": "Link",
+                "label": "LINKED IN",
+                "altText": "",
+                "url": "https://www.linkedin.com/in/oswin-losper-21520330/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            }
         ],
         "copyrightText": "© Oswin Losper 2022. \nContact me for more information oswinlosper\\[@]gmail.com\n",
         "styles": {
