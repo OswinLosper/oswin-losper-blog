@@ -90,7 +90,7 @@
             {
                 "type": "Link",
                 "label": "LINKED IN",
-                "altText": "",
+                "altText": "LINKED IN",
                 "url": "https://www.linkedin.com/in/oswin-losper-21520330/",
                 "showIcon": false,
                 "icon": "arrowRight",
