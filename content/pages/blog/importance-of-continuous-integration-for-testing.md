@@ -19,6 +19,9 @@ media:
   altText: Post image
 bottomSections: []
 author: content/data/team/doris-soto.json
+excerpt: >-
+  Learn why it is important for you and your business to implement CI in your
+  project.
 ---
 Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
 
