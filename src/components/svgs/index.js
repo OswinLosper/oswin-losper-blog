@@ -16,7 +16,6 @@ import Instagram from './instagram';
 import LinkedIn from './linkedin';
 import Mail from './mail';
 import Mediu from './medium';
-
 import Play from './play';
 import PlayCircle from './play-circle';
 import Reddit from './reddit';
