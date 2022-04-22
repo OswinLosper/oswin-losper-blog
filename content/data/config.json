@@ -67,7 +67,7 @@
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
-                "elementId": ""
+                "elementId": "home"
             },
             {
                 "type": "Link",
