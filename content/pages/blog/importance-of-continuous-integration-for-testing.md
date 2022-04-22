@@ -52,8 +52,6 @@ excerpt: >-
   Learn why it is important for you and your business to implement CI in your
   project.
 ---
-# Important of Continuous Integration For Testing?
-
 In our ever changing world we live in today, when take on a new project, a new hobby or just even when you enjoy something, you would want to get the most out of it. It’s the same with automation testing. If you do have an automation suite in your project and you don't have continuous integration (CI) on it, then you not getting the most value out of your automation testing.
 
 ### Learn why it is important for you and your business to implement CI in your project.
@@ -94,7 +92,7 @@ You'll Increase Accountability With Your Team
 
 Let's be honest, I'm sure all automated testers would love to have an automation test suite that just works, that doesn’t have failing tests, but realistically at some point you will get tests that fail. The failure can be due to recent changes in the code base or it can be a intermittent failure that no one can track down, regardless of the reason, its good to notify the team immediately and in a prominent place, if you don't have reporting in place so that the whole team can see it.
 
-Unfortunately, a lot testers prefer to take the easy way out and push failing tests one side to silent the failure alerts. They either mark the failing tests as pending, delete the result or even silence the notifications. It begins with what seems to be a justifiable moment, like we need to get this build out to the client or management want to see visibility on tests. These decisions usually goes with ‘*I will fix that next week when I have time’. *Then the inevitable happens, you never get time to fix it and before you know your whole automation test suite losses value.
+Unfortunately, a lot testers prefer to take the easy way out and push failing tests one side to silent the failure alerts. They either mark the failing tests as pending, delete the result or even silence the notifications. It begins with what seems to be a justifiable moment, like we need to get this build out to the client or management want to see visibility on tests. These decisions usually goes with ‘\*I will fix that next week when I have time’. \*Then the inevitable happens, you never get time to fix it and before you know your whole automation test suite losses value.
 
 I hear a lot and have experienced where the health of a project is the sole responsibility of the QA team, in order to have a successful project all stakeholder within the team has a responsibility to the health of a project. It might be easier for developers and testers to check the state of an application because they are hands on with the project, but for designers and project managers, it might be more difficult for them. If you don't have a way to make the projects health visible to these team members you missing out on a good opportunity to have other contribute with a fresh set of eyes.
 
@@ -106,13 +104,7 @@ For many testers, they're consist of doing a lot of repetitive tasks daily. Ever
 
 This can become a dull routine. Automated test can free them up form this cycle, letting continuous integration take care of the repetition. 
 
-
-
-
 The main benefit of having automated tests and setting up a CI service isn't to liberate testers from tedious work, its to free them up to spend more of there word day to do more higher value testing tasks, like more exploratory testing, which can pick up bugs that automated testing wont find and also documentation of testing procedure and test cases and test plans.
-
-
-
 
 Automated test are very good tool to handle regression testing, ensuring new changes don't break the application, but this will only be able to cover the areas you have planned or wrote scripts for. If there is new features that was done by the developer and no automation tests for the new feature there will be a gap that is not checked. Continuous integration wont cover for those scenarios, therefor testers time is best spend on the new features that has not automation tests and not the old features. No continuous integration system can go beyond what's defined in the test suite.
 
@@ -123,9 +115,6 @@ You Can Automate More the Just Tests
 Yes, this article is mainly focussed on implementing continuous integration to handle the repetitive testing work that most companies are facing with todays software development. 
 
 The most common use case for a continuous integration service is to set up automation testing. However, with that said, if you only using continuous integration for your automation tests, you are only touching the surface.
-
-
-
 
 In modern software development projects, teams have plenty of workflows that can take advantage of continuous integration. These are a few tasks that continuous integration can handle automatically for teams:
 
