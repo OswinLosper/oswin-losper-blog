@@ -49,8 +49,8 @@ bottomSections:
     recentCount: 3
 author: content/data/team/doris-soto.json
 excerpt: >-
-  Learn why it is important for you and your business to implement CI in your
-  project.
+  Want to know why it is important for you and your business to implement CI in
+  your project.
 ---
 In our ever changing world we live in today, when take on a new project, a new hobby or just even when you enjoy something, you would want to get the most out of it. It’s the same with automation testing. If you do have an automation suite in your project and you don't have continuous integration (CI) on it, then you not getting the most value out of your automation testing.
 
