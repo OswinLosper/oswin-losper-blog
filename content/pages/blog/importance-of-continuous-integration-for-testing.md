@@ -19,7 +19,7 @@ media:
   altText: Post image
 bottomSections:
   - type: RecentPostsSection
-    colors: colors-f
+    colors: colors-c
     elementId: ''
     showDate: true
     showAuthor: true
