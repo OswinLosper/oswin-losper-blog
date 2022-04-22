@@ -33,7 +33,7 @@ export const iconMap = {
     cart: Cart,
     chevronLeft: ChevronLeft,
     chevronRight: ChevronRight,
-    chevronRight: ChevronRight,
+    devTo: ChevronRight,
 
     facebook: Facebook,
     github: GitHub,
