@@ -1,7 +1,7 @@
 ---
 layout: PostLayout
 metaTitle: Importance Of Continuous Integration
-metaDescription: null
+metaDescription: Importance Of Continuous Integration
 addTitleSuffix: true
 socialImage: null
 metaTags: []
