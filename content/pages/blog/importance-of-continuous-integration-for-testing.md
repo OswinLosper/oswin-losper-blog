@@ -17,7 +17,40 @@ media:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
   altText: Post image
-bottomSections: []
+bottomSections:
+  - type: RecentPostsSection
+    colors: colors-f
+    elementId: ''
+    showDate: true
+    showAuthor: false
+    showExcerpt: true
+    showFeaturedImage: false
+    showReadMoreLink: true
+    variant: variant-b
+    actions:
+      - label: See all posts
+        altText: See all posts
+        url: /blog
+        type: Link
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: center
+    title: null
+    subtitle: Posts
+    recentCount: 3
 author: content/data/team/doris-soto.json
 excerpt: >-
   Learn why it is important for you and your business to implement CI in your
