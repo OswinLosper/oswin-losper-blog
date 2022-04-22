@@ -45,7 +45,7 @@
             },
             {
                 "type": "Social",
-                "altText": "GitHub",
+                "altText": "Dev",
                 "label": "GitHub",
                 "url": "https://github.com/OswinLosper?tab=repositories",
                 "icon": "medium"
