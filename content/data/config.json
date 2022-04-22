@@ -43,6 +43,13 @@
                 "url": "https://github.com/OswinLosper?tab=repositories",
                 "icon": "github"
             }
+                      {
+                "type": "Social",
+                "altText": "GitHub",
+                "label": "GitHub",
+                "url": "https://github.com/OswinLosper?tab=repositories",
+                "icon": "github"
+            }
         ],
         "styles": {
             "self": {
