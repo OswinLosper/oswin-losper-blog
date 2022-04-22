@@ -3,7 +3,7 @@ layout: PostLayout
 metaTitle: Importance Of Continuous Integration
 metaDescription: Importance Of Continuous Integration
 addTitleSuffix: true
-socialImage: null
+socialImage: /images/continuous-integration.jpg
 metaTags: []
 title: Importance of Continuous Integration
 colors: colors-a
