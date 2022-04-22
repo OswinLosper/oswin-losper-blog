@@ -72,7 +72,7 @@ Most of them are easy to start up and do not require a full time devops team. Mo
 
 If for some reason your company are still unsure about continuous integration, here are some reasons why may want to consider implementing a CI pipeline in your project.
 
-You Will get Faster Feedback Loops
+##### You Will get Faster Feedback Loops
 
 Doesn't matter the size of your project, you will inevitable get bugs. As a project gets bigger, you will add more complexity to it, ever changing requirements and many other issues that increases the probability of errors. It's impossible to avoid mistakes all the time, As good software developers and testers know that the key isn't preventing errors but the time you take to recover from them quickly and efficiently as possible.
 
@@ -88,7 +88,7 @@ By using continuous integration with a well-built automated test suite, this wil
 
 If an issue has been found using an automated test suite with continuous integration, an alert can be send to the developer and they can take much more quicker to fix the bug rather than the bug being discovered later down the line. Early detection can help reduce how much effort your developer and tester spend on issues.
 
-You'll Increase Accountability With Your Team
+##### You'll Increase Accountability With Your Team
 
 Let's be honest, I'm sure all automated testers would love to have an automation test suite that just works, that doesn’t have failing tests, but realistically at some point you will get tests that fail. The failure can be due to recent changes in the code base or it can be a intermittent failure that no one can track down, regardless of the reason, its good to notify the team immediately and in a prominent place, if you don't have reporting in place so that the whole team can see it.
 
@@ -98,7 +98,7 @@ I hear a lot and have experienced where the health of a project is the sole resp
 
 You can avoid this problem my using continuous integration to run your test automatically for you. Most continuous integration systems allows you to send alerts when an issue arises. Your continuous integration can send a message to Slack when a test fails. You can also add additional service to generate reports on a test run, this will help the non technical people in the team to understand the status of the project. This can allow everybody in the team to contribute to the project.
 
-You'll Give Testers More Time for High-Value Tasks.
+##### You'll Give Testers More Time for High-Value Tasks.
 
 For many testers, they're consist of doing a lot of repetitive tasks daily. Everyday the open up the application they are responsible to test, doing the same steps, clicking buttons, filling in the same forms and checking validations, the same did the day before.
 
@@ -110,7 +110,7 @@ Automated test are very good tool to handle regression testing, ensuring new cha
 
 A common mistake a lot of companies make, is *‘they want to automate everything’* . They switch all they focus onto automation and ignore all types of other testing. Automation testing wont solve all testing problems teams have. As a project gets bigger and bigger, automation coverage wont cover everything. Freeing up the team to go beyond what continuous integration does will undoubtedly improve the health of your project.
 
-You Can Automate More the Just Tests
+##### You Can Automate More the Just Tests
 
 Yes, this article is mainly focussed on implementing continuous integration to handle the repetitive testing work that most companies are facing with todays software development. 
 
@@ -126,7 +126,7 @@ In modern software development projects, teams have plenty of workflows that can
 
 Continuous integration can help your company perform repetitive tasks that computers can handle better and quicker.
 
-Conclusion
+#### Conclusion
 
 A well set up continuous integration environment plays an important part of the modern testing teams. It can help eliminate the repetitive aspects of manual testing and ensure you get the most value out of your automation testing.
 
