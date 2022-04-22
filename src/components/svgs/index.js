@@ -8,7 +8,7 @@ import ArrowUpRight from './arrow-up-right';
 import Cart from './cart';
 import ChevronLeft from './chevron-left';
 import ChevronRight from './chevron-right';
-import DevTo from './chevron-right';
+import DevTo from './';
 
 import Facebook from './facebook';
 import GitHub from './github';
