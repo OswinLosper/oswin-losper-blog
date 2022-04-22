@@ -13,10 +13,6 @@ featuredImage:
   url: /images/continuous-integration.jpg
   altText: Continuous Integration
   caption: Continuous Integration
-media:
-  type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Post image
 bottomSections:
   - type: RecentPostsSection
     colors: colors-c
