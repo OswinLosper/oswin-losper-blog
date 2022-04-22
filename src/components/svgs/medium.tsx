@@ -8,6 +8,6 @@ export default function Medium({ className }) {
 <ellipse cx="318.97" cy="255.56" fill="#fff" rx="35.07" ry="72.01"/><ellipse cx="378.21" cy="255.56" fill="#fff" rx="13.73" ry="65.08"/></svg>
 
 
-       </svg>
+      
     );
 }
