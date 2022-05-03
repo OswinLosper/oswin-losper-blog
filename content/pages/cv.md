@@ -7,12 +7,6 @@ socialImage: null
 metaTags: []
 title: cv
 colors: colors-a
-backgroundImage:
-  url: /images/bg2.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 80
 sections:
   - type: TextSection
     colors: colors-f
