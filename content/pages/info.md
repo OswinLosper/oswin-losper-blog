@@ -65,50 +65,6 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-  - type: LabelsSection
-    colors: colors-c
-    items:
-      - type: Label
-        label: TEST AUTOMATION
-      - type: Label
-        label: HTML
-      - type: Label
-        label: STYLE COMPONENTS
-      - type: Label
-        label: CSS
-      - type: Label
-        label: JAVASCRIPT
-      - type: Label
-        label: PHOTOSHOP
-      - type: Label
-        label: ILLUSTRATOR
-        url: ''
-      - type: Label
-        label: REACT
-        url: ''
-      - type: Label
-        label: GIT
-        url: ''
-      - type: Label
-        label: USER EXPERIENCE DESIGN
-        url: ''
-      - type: Label
-        label: WORDPRESS
-        url: ''
-    styles:
-      self:
-        justifyContent: center
-        width: wide
-        height: auto
-        borderStyle: solid
-        borderWidth: 0
-        padding:
-          - pl-0
-          - pt-10
-          - pb-10
-        margin:
-          - ml-0
-    title: Skills
   - type: FeaturedItemsSection
     colors: colors-f
     items:
