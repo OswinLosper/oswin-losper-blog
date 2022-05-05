@@ -1,0 +1,70 @@
+{
+    "model": "HeroSection",
+    "presets": [
+        {
+            "label": "Into",
+            "thumbnail": "images/hero-section-into-27fa.png",
+            "metadata": {
+                "categories": [
+                    "cards"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "colors": "colors-d",
+                "elementId": "",
+                "backgroundSize": "inset",
+                "title": "Hi, I’m Oswin Losper",
+                "subtitle": "QA Engineer",
+                "text": "Hi, name is Oswin, most of my time is being spend on doing automation testing using TestCafe or Cypress automation framework. Before this I did testing on a small scale when I was working as a senior designer & team lead.\n\nIn my spare time I enjoy watching Rugby, Football, American Football, hanging out with friends and do some gaming.\n",
+                "actions": [
+                    {
+                        "label": "WANT TO KNOW MORE?",
+                        "altText": "About Me",
+                        "url": "/info",
+                        "showIcon": false,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "style": "primary",
+                        "elementId": "",
+                        "$$type": "Button"
+                    }
+                ],
+                "media": null,
+                "styles": {
+                    "self": {
+                        "height": "auto",
+                        "width": "wide",
+                        "margin": [
+                            "mt-0",
+                            "mb-0",
+                            "ml-0",
+                            "mr-0"
+                        ],
+                        "padding": [
+                            "pt-20",
+                            "pb-10",
+                            "pl-4",
+                            "pr-4"
+                        ],
+                        "alignItems": "center",
+                        "justifyContent": "center",
+                        "flexDirection": "col-reverse"
+                    },
+                    "title": {
+                        "textAlign": "left"
+                    },
+                    "subtitle": {
+                        "textAlign": "left"
+                    },
+                    "text": {
+                        "textAlign": "left"
+                    },
+                    "actions": {
+                        "justifyContent": "flex-start"
+                    }
+                }
+            }
+        }
+    ]
+}
