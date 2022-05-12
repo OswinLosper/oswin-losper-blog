@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-metaTitle: Why Your Automation Tests Are Failing
+metaTitle: 'Why Your Automation Tests Are Failing '
 metaDescription: Why Your Automation Tests Are Failing
 addTitleSuffix: true
 socialImage: null
