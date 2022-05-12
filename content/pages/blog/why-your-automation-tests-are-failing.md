@@ -1,8 +1,6 @@
 ---
 layout: PostLayout
-metaTitle: >-
-  But in order to get good results from automation testing, you need to avoid
-  mistakes because they can result in wastage of automation efforts.
+metaTitle: Why Your Automation Tests Are Failing
 metaDescription: Why Your Automation Tests Are Failing
 addTitleSuffix: true
 socialImage: null
