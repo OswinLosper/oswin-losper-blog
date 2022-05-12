@@ -9,8 +9,8 @@ title: Why Automation Tests Are Failing
 colors: colors-a
 date: '2022-05-12'
 excerpt: >-
-  To get good results from automation testing, avoid mistakes because they can
-  result in wastage of automation efforts.
+  To get good results from automation testing, avoid mistakes, they can result
+  in wastage of automation efforts.
 featuredImage:
   type: ImageBlock
   url: /images/Why-Your-Automation-Tests-Are-Failing.jpg
