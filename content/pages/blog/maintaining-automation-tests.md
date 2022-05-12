@@ -56,7 +56,7 @@ author: content/data/team/doris-soto.json
 ---
 By now most companies (hopefully) must have automation testing or is in the progress to implement automation testing to their project. The benefits of automation testing is clear, refer to my article about, [benefits of automation testing](https://oswinlosper.co.za/posts/benefits-of-automation-testing/). 
 
-Automation testing testing will help your organisation build better software quickly and efficiently. If automation testing is implemented correctly, it will allow companies to ship new features or new products to clients much more frequently and with more confidence.
+Automation testing will help your organisation build better software quickly and efficiently. If automation testing is implemented correctly, it will allow companies to ship new features or new products to clients much more frequently and with more confidence.
 
 However, most of those benefits rapidly decrease or even goes away if you don’t take the time to maintain your tests.
 
