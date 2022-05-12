@@ -12,8 +12,8 @@ backgroundImage:
   url: /images/bg2.jpg
 date: '2022-05-12'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  But in order to get good results from automation testing, you need to avoid
+  mistakes because they can result in wastage of automation efforts.
 featuredImage:
   type: ImageBlock
   url: /images/Why-Your-Automation-Tests-Are-Failing.jpg
