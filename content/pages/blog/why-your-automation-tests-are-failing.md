@@ -48,7 +48,7 @@ bottomSections:
       actions:
         justifyContent: center
     title: RECENT POSTS
-    subtitle: null
+    subtitle: Some recen
     posts:
       - content/pages/blog/post-five.md
       - content/pages/blog/post-four.md
