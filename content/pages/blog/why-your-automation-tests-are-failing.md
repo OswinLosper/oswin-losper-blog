@@ -10,7 +10,7 @@ colors: colors-a
 date: '2022-05-12'
 excerpt: >-
   Get good results from automation testing, avoid mistakes, they can result in
-  wastage of automation efforts.
+  wastage of automation efforts
 featuredImage:
   type: ImageBlock
   url: /images/Why-Your-Automation-Tests-Are-Failing.jpg
