@@ -18,7 +18,7 @@ featuredImage:
   caption: Why Your Automation Tests Are Failing
 bottomSections:
   - type: FeaturedPostsSection
-    colors: colors-f
+    colors: colors-c
     elementId: ''
     showDate: true
     showAuthor: true
