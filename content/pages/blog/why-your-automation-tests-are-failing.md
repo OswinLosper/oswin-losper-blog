@@ -25,7 +25,7 @@ bottomSections:
     showExcerpt: true
     showFeaturedImage: true
     showReadMoreLink: true
-    variant: variant-d
+    variant: variant-a
     actions:
       - type: Link
         label: See all posts
