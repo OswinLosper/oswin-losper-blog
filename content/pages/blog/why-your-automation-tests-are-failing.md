@@ -13,7 +13,7 @@ excerpt: >-
   of automation efforts
 featuredImage:
   type: ImageBlock
-  url: /images/Why-Your-Automation-Tests-Are-Failing.jpg
+  url: /images/Why-Your-Automation-Tests-Are-Failing 2.jpg
   altText: Why Your Automation Tests Are Failing
   caption: Why Your Automation Tests Are Failing
 bottomSections: []
