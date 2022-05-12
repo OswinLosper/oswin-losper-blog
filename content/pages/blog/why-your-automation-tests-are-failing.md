@@ -19,10 +19,6 @@ featuredImage:
   url: /images/Why-Your-Automation-Tests-Are-Failing.jpg
   altText: Why Your Automation Tests Are Failing
   caption: Why Your Automation Tests Are Failing
-media:
-  type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Post image
 bottomSections: []
 author: content/data/team/doris-soto.json
 ---
