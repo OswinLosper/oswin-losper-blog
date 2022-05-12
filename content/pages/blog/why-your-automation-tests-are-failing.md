@@ -53,6 +53,7 @@ bottomSections:
       - content/pages/blog/post-five.md
       - content/pages/blog/post-four.md
       - content/pages/blog/post-three.md
+      - content/pages/blog/importance-of-continuous-integration-for-testing.md
 author: content/data/team/doris-soto.json
 ---
 We all know that test automation can work wonders for your business. It can help to reduce cost, save time and effort, get quicker feedback and thereby directly contributing to increased productivity. But in order to get good results from automation testing, you need to avoid mistakes because they can result in wastage of automation efforts.
