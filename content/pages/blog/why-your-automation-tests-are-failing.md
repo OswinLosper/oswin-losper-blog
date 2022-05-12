@@ -17,7 +17,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/Why-Your-Automation-Tests-Are-Failing.jpg
-  altText: Post thumbnail image
+  altText: Why Your Automation Tests Are Failing
   caption: ''
 media:
   type: ImageBlock
