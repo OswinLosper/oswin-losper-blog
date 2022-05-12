@@ -18,7 +18,7 @@ featuredImage:
   type: ImageBlock
   url: /images/Why-Your-Automation-Tests-Are-Failing.jpg
   altText: Why Your Automation Tests Are Failing
-  caption: ''
+  caption: Why Your Automation Tests Are Failing
 media:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
