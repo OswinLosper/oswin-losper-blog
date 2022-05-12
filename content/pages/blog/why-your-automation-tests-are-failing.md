@@ -3,7 +3,7 @@ layout: PostLayout
 metaTitle: Why Your Automation Tests Are Failing | Oswin Losper
 metaDescription: Why Your Automation Tests Are Failing
 addTitleSuffix: true
-socialImage: /images/Why-Your-Automation-Tests-Are-Failing.jpg
+socialImage: /images/Why-Your-Automation-Tests-Are-Failing 2.jpg
 metaTags: []
 title: Why Automation Tests Are Failing
 colors: colors-a
