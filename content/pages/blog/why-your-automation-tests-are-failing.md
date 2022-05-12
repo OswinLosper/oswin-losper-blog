@@ -16,43 +16,7 @@ featuredImage:
   url: /images/Why-Your-Automation-Tests-Are-Failing 2.jpg
   altText: Why Your Automation Tests Are Failing
   caption: Why Your Automation Tests Are Failing
-bottomSections:
-  - type: FeaturedPostsSection
-    colors: colors-c
-    elementId: ''
-    showDate: true
-    showAuthor: true
-    showExcerpt: true
-    showFeaturedImage: true
-    showReadMoreLink: true
-    variant: variant-b
-    actions:
-      - type: Link
-        label: See all posts
-        altText: See all posts
-        url: /blog
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: center
-    title: 'Posts:'
-    subtitle: null
-    posts:
-      - content/pages/blog/post-five.md
-      - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
+bottomSections: []
 author: content/data/team/doris-soto.json
 ---
 We all know that test automation can work wonders for your business. It can help to reduce cost, save time and effort, get quicker feedback and thereby directly contributing to increased productivity. But in order to get good results from automation testing, you need to avoid mistakes because they can result in wastage of automation efforts.
