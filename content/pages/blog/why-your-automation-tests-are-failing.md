@@ -7,9 +7,6 @@ socialImage: /images/Why-Your-Automation-Tests-Are-Failing.jpg
 metaTags: []
 title: Why Your Automation Tests Are Failing
 colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg2.jpg
 date: '2022-05-12'
 excerpt: >-
   In order to get good results from automation testing, you need to avoid
