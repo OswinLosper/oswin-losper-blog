@@ -8,7 +8,7 @@ metaDescription: >-
 addTitleSuffix: true
 socialImage: /images/no-text.png
 metaTags: []
-title: Becoming An Automation Tester
+title: BECOMING AN AUTOMATION TESTER
 colors: colors-a
 date: '2021-11-19'
 excerpt: >-
