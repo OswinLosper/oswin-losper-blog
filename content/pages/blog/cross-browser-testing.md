@@ -21,7 +21,39 @@ media:
   url: /images/Cross-Browsing-Banner.jpg
   altText: Cross Browser Testing
   caption: Cross Browser Testing
-bottomSections: []
+bottomSections:
+  - type: RecentProjectsSection
+    colors: colors-d
+    elementId: ''
+    showDate: false
+    showDescription: true
+    showFeaturedImage: true
+    showReadMoreLink: true
+    variant: variant-b
+    actions:
+      - label: See all projects
+        altText: See all projects
+        url: /projects
+        type: Link
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: center
+    title: null
+    subtitle: Projects
+    recentCount: 6
 ---
 Browsers today have become much more consistent in how they render web applications. The days where developers had to almost to double the amount of work, thanks to the sometimes contradicting behaviour between web browsers, is a thing of the past. However, still different devices and different browsers versions can cause your app not work consistently well or not work in certain parts at all for some users.
 
