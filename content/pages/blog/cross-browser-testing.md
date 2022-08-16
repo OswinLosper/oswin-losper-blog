@@ -5,7 +5,7 @@ metaDescription: Cross Browser Testing
 addTitleSuffix: true
 socialImage: /images/Cross-Browsing-c77ca957.jpg
 metaTags: []
-title: Cross Browser TESTING
+title: CROSS BROWSER TESTING
 colors: colors-a
 date: '2022-08-16'
 excerpt: >-
