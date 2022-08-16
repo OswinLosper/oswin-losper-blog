@@ -16,7 +16,7 @@ excerpt: >-
   behaviour and functionality works as intended.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/Cross-Browsing.jpg
   altText: Cross Browser Testing
   caption: Cross Browser Testing
 media:
