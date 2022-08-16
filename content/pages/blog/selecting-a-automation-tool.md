@@ -9,7 +9,7 @@ metaDescription: >-
 addTitleSuffix: true
 socialImage: /images/Selecting a tool.jpg
 metaTags: []
-title: Selecting A Automation Tool
+title: SELECTING A AUTOMATION TOOL
 colors: colors-a
 date: '2021-10-22'
 excerpt: >-
