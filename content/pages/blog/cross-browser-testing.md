@@ -25,7 +25,7 @@ bottomSections:
   - type: RecentProjectsSection
     colors: colors-d
     elementId: ''
-    showDate: false
+    showDate: true
     showDescription: true
     showFeaturedImage: true
     showReadMoreLink: true
