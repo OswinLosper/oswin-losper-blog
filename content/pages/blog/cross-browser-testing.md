@@ -59,6 +59,8 @@ Browsers today have become much more consistent in how they render web applicati
 
 Web developers must ensure that their application work well for all user that access the app. This is where cross browser testing comes into play.
 
+![](/images/Cross-Browsing-Banner.jpg)
+
 #### What is Cross Browsing Testing? 
 
 Safe to say that the name kind of gives it away. Cross browser is testing of websites or web application (yes, there is a BIG difference) that take place across various browsers to ensure the behaviour and functionality works as intended.
@@ -102,8 +104,6 @@ Documenting scenarios can help QA establish the various test cases needed for ma
 For teams going the automated route, software developers and QA engineers can code a fully functional cross browser test suite, provided the team has the technical ability to do this.
 
 Teams with limited programming knowledge aren’t left behind when it comes to automating tests. A growing segment of the QA world is the rise of low-code or codeless testing tools. These tools allow anyone to easily create automated tests without any coding experience, like recording the steps taken in a web application and replaying it in the future.
-
-![](/images/Cross-Browsing-Banner.jpg)
 
 #### Top 5 Cross Browser Testing Tools
 
