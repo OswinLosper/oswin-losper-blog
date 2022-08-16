@@ -12,8 +12,9 @@ backgroundImage:
   url: /images/bg2.jpg
 date: '2022-08-16'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Cross browser is testing of websites or web application (yes, there is a BIG
+  difference) that take place across various browsers to ensure the behaviour
+  and functionality works as intended.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
