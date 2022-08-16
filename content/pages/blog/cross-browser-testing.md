@@ -23,6 +23,7 @@ media:
   type: ImageBlock
   url: /images/Cross-Browsing.jpg
   altText: Cross Browser Testing
+  caption: Cross Browser Testing
 bottomSections: []
 ---
 Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
