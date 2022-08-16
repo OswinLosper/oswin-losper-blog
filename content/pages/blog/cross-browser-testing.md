@@ -18,7 +18,7 @@ featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
   altText: Cross Browser Testing
-  caption: ''
+  caption: Cross Browser Testing
 media:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
