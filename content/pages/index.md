@@ -31,6 +31,8 @@ sections:
         flexDirection: col-reverse
       title:
         textAlign: left
+        fontStyle:
+          - italic
       subtitle:
         textAlign: left
       text:
