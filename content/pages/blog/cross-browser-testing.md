@@ -71,8 +71,6 @@ It’s impossible to test every possible combination of browser, operating syste
 
 ![](/images/Cross-Browsing-Banner.jpg)
 
-
-
 #### How to perform Cross Browsing Testing? 
 
 As with most testing strategies, most business handle cross browser testing in two ways: with manual testing and automated tests.
@@ -106,8 +104,6 @@ Documenting scenarios can help QA establish the various test cases needed for ma
 For teams going the automated route, software developers and QA engineers can code a fully functional cross browser test suite, provided the team has the technical ability to do this.
 
 Teams with limited programming knowledge aren’t left behind when it comes to automating tests. A growing segment of the QA world is the rise of low-code or codeless testing tools. These tools allow anyone to easily create automated tests without any coding experience, like recording the steps taken in a web application and replaying it in the future.
-
-![](/images/Cross-Browsing-Banner.jpg)
 
 #### Top 5 Cross Browser Testing Tools
 
