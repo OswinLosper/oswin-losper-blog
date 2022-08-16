@@ -2,7 +2,7 @@
 layout: PostFeedLayout
 title: Blog Posts
 colors: colors-d
-numOfPostsPerPage: 10
+numOfPostsPerPage: 105
 styles:
   title:
     textAlign: left
