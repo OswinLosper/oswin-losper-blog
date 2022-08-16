@@ -23,7 +23,7 @@ media:
   caption: Cross Browser Testing
 bottomSections:
   - type: RecentPostsSection
-    colors: colors-c
+    colors: colors-b
     elementId: ''
     showDate: true
     showAuthor: true
