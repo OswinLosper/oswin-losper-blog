@@ -3,7 +3,7 @@ layout: PostLayout
 metaTitle: Cross Browser Testing
 metaDescription: Cross Browser Testing
 addTitleSuffix: true
-socialImage: null
+socialImage: /images/Cross-Browsing-c77ca957.jpg
 metaTags: []
 title: Cross Browser Testing
 colors: colors-a
