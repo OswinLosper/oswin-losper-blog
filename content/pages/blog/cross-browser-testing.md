@@ -69,6 +69,10 @@ Different version of a browser, device or operating system can expose inconsiste
 
 It’s impossible to test every possible combination of browser, operating system, device and scenario, it’s still worth the time to validate your web app across the most commonly used web browsers and devices like PCs and smartphones.
 
+![](/images/Cross-Browsing-Banner.jpg)
+
+
+
 #### How to perform Cross Browsing Testing? 
 
 As with most testing strategies, most business handle cross browser testing in two ways: with manual testing and automated tests.
