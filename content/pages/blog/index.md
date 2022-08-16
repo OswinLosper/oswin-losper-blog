@@ -1,6 +1,6 @@
 ---
 layout: PostFeedLayout
-title: Blog Posts
+title: BLOG POSTS
 colors: colors-d
 numOfPostsPerPage: 5
 styles:
