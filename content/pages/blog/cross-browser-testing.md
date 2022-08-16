@@ -74,6 +74,10 @@ For teams going the automated route, software developers and QA engineers can co
 
 Teams with limited programming knowledge aren’t left behind when it comes to automating tests. A growing segment of the QA world is the rise of low-code or codeless testing tools. These tools allow anyone to easily create automated tests without any coding experience, like recording the steps taken in a web application and replaying it in the future.
 
+> Vestibulum ullamcorper risus auctor eleifend consequat.
+>
+> ![](/images/Cross-Browsing-Banner.jpg)
+
 Top 5 Cross Browser Testing Tools
 
 These days, there’s no shortage of excellent tools to get started with cross browser testing. Just to list a few great choices if you’re looking to get started on a low-code/codeless testing environment:
@@ -109,15 +113,3 @@ Keeping in mind that your web application and cross browser test suite will expa
 With that said, it doesn’t mean that low-code and codeless tools will always hit these kinds of limitations. Most modern low-code/codeless testing tools allow editing the tests in different ways, letting testers record their tests and access the underlying code for any necessary modifications. When seeking a low-code or codeless testing tool, the ability to switch between both modes effortlessly should be a key factor to guide your decision.
 
 Regardless of the tool of choice, the most important thing is to have coverage of cross browser testing. It will make development easier by detecting issues quicker and making sure your customers have a smooth experience.
-
-> Vestibulum ullamcorper risus auctor eleifend consequat.
->
->
->
-> ![](/images/Cross-Browsing-Banner.jpg)
-
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
-
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
-
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
