@@ -1,5 +1,5 @@
 ---
-title: Home | ImOswin Losper
+title: Home | I' mOswin Losper
 layout: PageLayout
 colors: colors-d
 backgroundImage:
