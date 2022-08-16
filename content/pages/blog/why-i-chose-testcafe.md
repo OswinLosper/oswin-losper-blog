@@ -7,7 +7,7 @@ metaDescription: >-
 addTitleSuffix: true
 socialImage: /images/whyTestCafe-NEW.jpg
 metaTags: []
-title: Why I Chose TestCafe
+title: WHY I CHOSE TESTCAFE
 colors: colors-a
 date: '2021-09-28'
 excerpt: Choosing a framework to run automation test on can be tricky.
