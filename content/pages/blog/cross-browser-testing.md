@@ -59,6 +59,8 @@ Browsers today have become much more consistent in how they render web applicati
 
 Web developers must ensure that their application work well for all user that access the app. This is where cross browser testing comes into play.
 
+![](/images/Cross-Browsing-Banner.jpg)
+
 #### What is Cross Browsing Testing? 
 
 Safe to say that the name kind of gives it away. Cross browser is testing of websites or web application (yes, there is a BIG difference) that take place across various browsers to ensure the behaviour and functionality works as intended.
