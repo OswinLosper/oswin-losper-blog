@@ -33,7 +33,7 @@ bottomSections:
     actions:
       - label: See all projects
         altText: See all projects
-        url: /projects
+        url: /blog
         type: Link
     styles:
       self:
