@@ -27,7 +27,7 @@ Browsers today have become much more consistent in how they render web applicati
 
 Web developers must ensure that their application work well for all user that access the app. This is where cross browser testing comes into play.
 
-What is Cross Browsing Testing? 
+### What is Cross Browsing Testing? 
 
 Safe to say that the name kind of gives it away. Cross browser is testing of websites or web application (yes, there is a BIG difference) that take place across various browsers to ensure the behaviour and functionality works as intended.
 
@@ -37,17 +37,17 @@ Different version of a browser, device or operating system can expose inconsiste
 
 It’s impossible to test every possible combination of browser, operating system, device and scenario, it’s still worth the time to validate your web app across the most commonly used web browsers and devices like PCs and smartphones.
 
-How to perform Cross Browsing Testing? 
+### How to perform Cross Browsing Testing? 
 
 As with most testing strategies, most business handle cross browser testing in two ways: with manual testing and automated tests.
 
-Can Cross Browsing Testing Be Done Manually? 
+### Can Cross Browsing Testing Be Done Manually? 
 
 The short answer to this is yes. Organisations can have a few members of a QA team load up their web applications on different operating systems and browsers. They go through various test scenarios to verify that the app works as intended no matter where or under which conditions it’s accessed. Some teams follow a script or have a series of test cases that they go through, while others do more exploratory testing without a set plan. 
 
 Keeping in mind that manual testing only keeps high level of quality for your web applications. As with all manual testing, it can take a lot of time to complete and can be prone to human error. Plus, no one wants to perform the same mundane, repetitive tasks over and over every single day. After a while, this work takes a mental toll on testers, leading to bugs slipping through the cracks.
 
-Automate Cross Browsing Testing.
+### Automate Cross Browsing Testing.
 
 With automated testing, teams can eliminate the boring parts of manual testing. By using tools that automatically go through the same scenarios, automated cross browser testing bypasses the repetitious work of manual testing and free up QA to perform other kinds of high-value work to get the most out of your team’s testing time.
 
@@ -55,13 +55,13 @@ The downside of automated testing is that the scripts can only reveal issues in 
 
 Automated tests also usually do only what they’re told, eliminating the benefits of exploratory testing that a human tester brings to the table.
 
-The Best Approach Is Both.
+### The Best Approach Is Both.
 
 Some teams prefer going all in either manual or automated testing but the ideal approach is a mix of both. Start with manual, like mentioned above exploratory testing to determine the sections with high risk and importance to the business - the areas where your organisation stands to lose customers or money if they stop working. 
 
 With a list of test scenarios to guide you, begin sprinkling in automated tests to handle the most critical and tedious test cases. This balanced plan will give you the best of both worlds.
 
-Ways To Build a Cross Browser Test Suite.
+### Ways To Build a Cross Browser Test Suite.
 
 Testers have a lot options for creating cross browser test suites.
 
@@ -73,31 +73,31 @@ Teams with limited programming knowledge aren’t left behind when it comes to a
 
 ![](/images/Cross-Browsing-Banner.jpg)
 
-Top 5 Cross Browser Testing Tools
+### Top 5 Cross Browser Testing Tools
 
 These days, there’s no shortage of excellent tools to get started with cross browser testing. Just to list a few great choices if you’re looking to get started on a low-code/codeless testing environment:
 
-TestCafe Studio
+##### TestCafe Studio
 
 My personal favourite, TestCafe Studio by DevExpress is a cross platform tool powered by TestCafe, an open-source framework focused on end-to-end testing for web applications. It supports most major browsers, including browsers for mobile devices, with almost no configuration required.
 
-Test Studio
+##### Test Studio
 
 Test Studio by Telerik is a Windows-based testing application covering desktop and web applications. It provides a full suite of tools with different kinds of automated testing, including web application test recording, cross browser testing and automating test.
 
-Ghost Inspector
+##### Ghost Inspector
 
 Ghost Inspector is an online service that captures recorded actions and assertions of a web application through a browser extension, which it then executes on its servers. One issue with this is, the service is currently, available only for Chrome and Firefox.
 
-Selenium IDE
+##### Selenium IDE
 
 Selenium IDE is a recording and playback tool based on the widely used Selenium testing framework. Like Ghost Inspector, Selenium IDE works as a browser extension for Chrome or Firefox and provides a ready-to-use IDE to test your web application.
 
-Katalon Studio
+##### Katalon Studio
 
 Katalon Studio is a cross platform testing tool that uses Selenium under the hood for executing web application tests. Out of the box, it supports test recording functionality across most major browsers.
 
-Should Cross Browser Tests Always Be Recorded?
+#### Should Cross Browser Tests Always Be Recorded?
 
 A lot of organisations have concerns about whether they should rely on low-code/codeless testing tools to record their cross browser tests or if they should code them from the ground up. Both options work well, depending on your team and business needs.
 
