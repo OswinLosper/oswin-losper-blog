@@ -16,7 +16,7 @@ excerpt: >-
   behaviour and functionality works as intended.
 featuredImage:
   type: ImageBlock
-  url: /images/Cross-Browsing.jpg
+  url: /images/Cross-Browsing-c77ca957.jpg
   altText: Cross Browser Testing
   caption: Cross Browser Testing
 media:
