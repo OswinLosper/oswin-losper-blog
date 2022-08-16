@@ -40,7 +40,8 @@ export default function PostLayout(props) {
                         {markdown_content && (
                             <Markdown
                                 options={{ forceBlock: true, overrides: { pre: HighlightedPreBlock } }}
-                                className="sb-markdown max-w-screen-md mx-auto"
+                                // className="sb-markdown max-w-screen-md mx-auto"
+                                className="sb-markdown"
                                 data-sb-field-path="markdown_content"
                             >
                                 {markdown_content}
