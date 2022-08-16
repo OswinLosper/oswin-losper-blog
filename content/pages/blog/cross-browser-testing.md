@@ -71,9 +71,7 @@ For teams going the automated route, software developers and QA engineers can co
 
 Teams with limited programming knowledge aren’t left behind when it comes to automating tests. A growing segment of the QA world is the rise of low-code or codeless testing tools. These tools allow anyone to easily create automated tests without any coding experience, like recording the steps taken in a web application and replaying it in the future.
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
->
-> ![](/images/Cross-Browsing-Banner.jpg)
+![](/images/Cross-Browsing-Banner.jpg)
 
 Top 5 Cross Browser Testing Tools
 
