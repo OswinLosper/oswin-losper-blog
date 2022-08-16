@@ -51,7 +51,6 @@ bottomSections:
         textAlign: left
       actions:
         justifyContent: center
-    title: null
     subtitle: Projects
     recentCount: 6
 ---
