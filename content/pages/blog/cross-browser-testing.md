@@ -22,37 +22,6 @@ media:
   altText: Cross Browser Testing
   caption: Cross Browser Testing
 bottomSections:
-  - type: RecentProjectsSection
-    colors: colors-d
-    elementId: ''
-    showDate: true
-    showDescription: true
-    showFeaturedImage: true
-    showReadMoreLink: true
-    variant: variant-b
-    actions:
-      - label: See all projects
-        altText: See all projects
-        url: /blog
-        type: Link
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: center
-    subtitle: Projects
-    recentCount: 3
   - type: RecentPostsSection
     colors: colors-f
     elementId: ''
