@@ -110,9 +110,11 @@ With that said, it doesn’t mean that low-code and codeless tools will always h
 
 Regardless of the tool of choice, the most important thing is to have coverage of cross browser testing. It will make development easier by detecting issues quicker and making sure your customers have a smooth experience.
 
-
-
 > Vestibulum ullamcorper risus auctor eleifend consequat.
+>
+>
+>
+> ![](/images/Cross-Browsing-Banner.jpg)
 
 ![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
 
