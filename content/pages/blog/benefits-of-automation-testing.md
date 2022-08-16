@@ -10,7 +10,7 @@ metaDescription: >-
 addTitleSuffix: true
 socialImage: /images/benefits-2-NEW.jpg
 metaTags: []
-title: Benefits Of Automation Testing
+title: BENEFITS OF AUTOMATION TESTING
 colors: colors-c
 date: '2021-09-16'
 excerpt: >-

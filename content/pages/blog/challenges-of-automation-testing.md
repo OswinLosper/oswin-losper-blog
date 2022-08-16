@@ -7,7 +7,7 @@ metaDescription: >-
 addTitleSuffix: true
 socialImage: /images/challenges-of-automation.jpg
 metaTags: []
-title: Challenges of Automation Testing
+title: CHALLENGES OF AUTOMATION TESTING
 colors: colors-d
 date: '2022-04-12'
 excerpt: >-

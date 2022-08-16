@@ -5,7 +5,7 @@ metaDescription: Why Your Automation Tests Are Failing
 addTitleSuffix: true
 socialImage: /images/Why-Your-Automation-Tests-Are-Failing 2.jpg
 metaTags: []
-title: Why Automation Tests Are Failing
+title: WHY AUTOMATION TESTS ARE FAILING
 colors: colors-a
 date: '2022-05-12'
 excerpt: >-

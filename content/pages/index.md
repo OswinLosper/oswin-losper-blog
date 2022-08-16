@@ -11,7 +11,7 @@ sections:
   - elementId: ''
     colors: colors-d
     backgroundSize: inset
-    title: 'Hi, I’m Oswin Losper'
+    title: 'Hi, I''m Oswin Losper'
     styles:
       self:
         height: auto
@@ -31,6 +31,7 @@ sections:
         flexDirection: col-reverse
       title:
         textAlign: left
+        fontStyle: []
       subtitle:
         textAlign: left
       text:

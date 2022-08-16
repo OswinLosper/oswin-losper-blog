@@ -7,7 +7,7 @@ metaDescription: >-
 addTitleSuffix: true
 socialImage: /images/automation-testing-types.png
 metaTags: []
-title: Automation Testing Types
+title: AUTOMATION TESTING TYPES
 colors: colors-a
 date: '2021-10-29'
 excerpt: >-

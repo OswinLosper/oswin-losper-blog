@@ -7,7 +7,7 @@ metaDescription: >-
 addTitleSuffix: true
 socialImage: /images/maintaining-your-automation-tests2.jpg
 metaTags: []
-title: Maintaining Automation Tests
+title: MAINTAINING AUTOMATION TESTS
 colors: colors-d
 date: '2022-01-28'
 excerpt: >-

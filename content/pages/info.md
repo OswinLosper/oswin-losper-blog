@@ -1,5 +1,5 @@
 ---
-title: About
+title: ABOUT
 layout: PageLayout
 colors: colors-d
 sections:
