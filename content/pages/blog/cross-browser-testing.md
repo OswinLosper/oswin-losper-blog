@@ -13,7 +13,7 @@ excerpt: >-
   functionality works.
 featuredImage:
   type: ImageBlock
-  url: /images/Cross-Browsing-c77ca957.jpg
+  url: /images/Cross-Browsing-97ad8112.jpg
   altText: Cross Browser Testing
   caption: Cross Browser Testing
 media:
