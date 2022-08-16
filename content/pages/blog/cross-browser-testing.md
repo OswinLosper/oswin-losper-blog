@@ -1,7 +1,7 @@
 ---
 layout: PostLayout
 metaTitle: Cross Browser Testing
-metaDescription: null
+metaDescription: Cross Browser Testing
 addTitleSuffix: true
 socialImage: null
 metaTags: []
