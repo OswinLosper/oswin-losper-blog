@@ -7,9 +7,6 @@ socialImage: null
 metaTags: []
 title: Cross Browser Testing
 colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg2.jpg
 date: '2022-08-16'
 excerpt: >-
   Cross browser is testing that take place across various browsers to ensure the
