@@ -9,7 +9,7 @@ title: Cross Browser Testing
 colors: colors-a
 date: '2022-08-16'
 excerpt: >-
-  Cross browser testing that take place across various browsers to ensure the
+  Cross browser testing take place across various browsers to ensure the
   behaviour and functionality works as intended.
 featuredImage:
   type: ImageBlock
