@@ -18,7 +18,6 @@ featuredImage:
   caption: Cross Browser Testing
 media:
   type: ImageBlock
-  url: /images/Cross-Browsing-Banner.jpg
   altText: Cross Browser Testing
   caption: Cross Browser Testing
 bottomSections:
