@@ -6,7 +6,7 @@ addTitleSuffix: true
 socialImage: null
 metaTags: []
 title: Cross Browser Testing
-colors: colors-b
+colors: colors-a
 date: '2022-08-16'
 excerpt: >-
   Cross browser testing takes place across browsers to ensure behaviour and
