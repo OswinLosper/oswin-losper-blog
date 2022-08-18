@@ -63,7 +63,7 @@ Web developers must ensure that their application work well for all user that ac
 
 #### What is Cross Browsing Testing? 
 
-Safe to say that the name kind of gives it away. Cross browser is testing of websites or web applications that takes place across various browsers to ensure the behaviour and functionality works as intended.
+Safe to say that the name kind of gives it away. Cross browser testing is the testing of websites or web applications that takes place across various browsers to ensure the behaviour and functionality works as intended.
 
 Cross browser testing is more then simply opening up a website or web application in different browsers. This testing includes validating the functionality with the devices and operating systems and verifying how a website or application work under different scenarios that a user can come across in the real world.
 
