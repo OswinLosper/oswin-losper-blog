@@ -58,7 +58,7 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
-    subtitle: QA Engineer
+    subtitle: QA Engineer | istqb Certified
   - type: RecentPostsSection
     colors: colors-c
     elementId: ''
